@@ -1,0 +1,45 @@
+site_name: Bibliothèque scolaire
+site_description: Cours, fiches de révision et quiz
+
+theme:
+  name: material
+  language: fr
+  font:
+    text: Roboto
+    code: Roboto Mono
+  palette:
+    scheme: default
+    primary: teal
+    accent: deep orange
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Accueil: index.md
+  - Physique-chimie:
+      - Chapitre 17 - Cours: physique-chimie/chapitre-17-couleurs.md
+      - Fiche de révision: physique-chimie/chapitre-17-fiche.md
+      - Quiz: physique-chimie/chapitre-17-quiz.md
+
+plugins:
+  - search:
+      lang: fr
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  generator: false
