@@ -1,6 +1,6 @@
 # Bibliothèque scolaire
 
-Site privé en français regroupant des cours, des fiches de révision et des quiz produits à partir de documents scolaires numérisés.
+Site en français regroupant des cours, des fiches de révision et des quiz produits à partir de documents scolaires numérisés.
 
 ## Organisation
 
@@ -27,9 +27,15 @@ Ouvrir ensuite `http://127.0.0.1:8000` dans un navigateur.
 
 Le site statique est produit dans le dossier `site/`.
 
-## Publication privée
+## Publication sur GitHub Pages
 
-Le dépôt Git doit rester privé. Un dépôt privé ne rend toutefois pas automatiquement le site privé. Le dossier `site/` doit être publié derrière une authentification, par exemple avec Cloudflare Pages et Cloudflare Access, Azure Static Web Apps avec authentification, ou un serveur accessible uniquement par Tailscale.
+Le site est publié automatiquement à chaque push sur la branche `main` :
+
+<https://drslumppower.github.io/school-library/>
+
+Le workflow `.github/workflows/publier-site.yml` construit le site en mode strict avant de le déployer.
+
+> **Attention :** le site GitHub Pages est public, même si le dépôt GitHub est privé. Ne jamais publier le nom complet de l'élève, son établissement, ses notes ou tout autre renseignement personnel.
 
 ## Ajouter un cours
 

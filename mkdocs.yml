@@ -1,5 +1,6 @@
 site_name: Bibliothèque scolaire
 site_description: Cours, fiches de révision et quiz
+site_url: https://drslumppower.github.io/school-library/
 
 theme:
   name: material
