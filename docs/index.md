@@ -36,5 +36,15 @@ Découvrir la carrière de Corneille et comprendre comment le mensonge devient, 
 [Réviser l'essentiel](francais/le-menteur-corneille-fiche.md){ .md-button }
 [Faire le quiz](francais/le-menteur-corneille-quiz.md){ .md-button }
 
+## SVT
+
+### Chapitre 1 · L'organisation cellulaire du vivant
+
+Comparer les cellules procaryotes, animales et végétales, puis comprendre le rôle de la mitose et l'organisation de l'information génétique.
+
+[Lire le cours](svt/organisation-cellulaire-du-vivant.md){ .md-button .md-button--primary }
+[Réviser l'essentiel](svt/organisation-cellulaire-du-vivant-fiche.md){ .md-button }
+[Faire le quiz](svt/organisation-cellulaire-du-vivant-quiz.md){ .md-button }
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.

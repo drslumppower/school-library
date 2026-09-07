@@ -33,6 +33,10 @@ nav:
       - Le Menteur - Cours: francais/le-menteur-corneille.md
       - Fiche de révision: francais/le-menteur-corneille-fiche.md
       - Quiz: francais/le-menteur-corneille-quiz.md
+  - SVT:
+      - Chapitre 1 - Cours: svt/organisation-cellulaire-du-vivant.md
+      - Fiche de révision: svt/organisation-cellulaire-du-vivant-fiche.md
+      - Quiz: svt/organisation-cellulaire-du-vivant-quiz.md
 
 plugins:
   - search:
