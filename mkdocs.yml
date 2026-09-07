@@ -21,33 +21,45 @@ theme:
 
 nav:
   - Accueil: index.md
+  - Révision du jour: revision-du-jour.md
   - Physique-chimie:
-      - Chapitre 17 - Cours: physique-chimie/chapitre-17-couleurs.md
-      - Fiche de révision: physique-chimie/chapitre-17-fiche.md
+      - Récap express: physique-chimie/chapitre-17-recap.md
       - Quiz: physique-chimie/chapitre-17-quiz.md
+      - Fiche de révision: physique-chimie/chapitre-17-fiche.md
+      - Cours détaillé: physique-chimie/chapitre-17-couleurs.md
   - Mathématiques:
-      - Second degré - Cours: mathematiques/second-degre-partie-1.md
-      - Fiche de révision: mathematiques/second-degre-partie-1-fiche.md
+      - Récap express: mathematiques/second-degre-partie-1-recap.md
       - Quiz: mathematiques/second-degre-partie-1-quiz.md
+      - Fiche de révision: mathematiques/second-degre-partie-1-fiche.md
+      - Cours détaillé: mathematiques/second-degre-partie-1.md
   - Français:
-      - Le Menteur - Cours: francais/le-menteur-corneille.md
-      - Fiche de révision: francais/le-menteur-corneille-fiche.md
+      - Récap express: francais/le-menteur-corneille-recap.md
       - Quiz: francais/le-menteur-corneille-quiz.md
+      - Fiche de révision: francais/le-menteur-corneille-fiche.md
+      - Cours détaillé: francais/le-menteur-corneille.md
   - SVT:
-      - Chapitre 1 - Cours: svt/organisation-cellulaire-du-vivant.md
-      - Fiche de révision: svt/organisation-cellulaire-du-vivant-fiche.md
+      - Récap express: svt/organisation-cellulaire-du-vivant-recap.md
       - Quiz: svt/organisation-cellulaire-du-vivant-quiz.md
+      - Fiche de révision: svt/organisation-cellulaire-du-vivant-fiche.md
+      - Cours détaillé: svt/organisation-cellulaire-du-vivant.md
   - Anglais:
-      - Unit 0 - Cours: anglais/three-truths-two-lies.md
-      - Fiche de révision: anglais/three-truths-two-lies-fiche.md
+      - Récap express: anglais/three-truths-two-lies-recap.md
       - Quiz: anglais/three-truths-two-lies-quiz.md
+      - Fiche de révision: anglais/three-truths-two-lies-fiche.md
+      - Cours détaillé: anglais/three-truths-two-lies.md
   - Sciences de l'ingénieur:
-      - Introduction - Cours: sciences-ingenieur/introduction-sciences-ingenieur.md
-      - Fiche de révision: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
-      - Besoin et structure - Cours: sciences-ingenieur/besoin-exigences-structure-systeme.md
-      - Besoin et structure - Fiche: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
-      - Étude de cas AP25 - Cours: sciences-ingenieur/etude-cas-attacheur-ap25.md
-      - Étude de cas AP25 - Fiche: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
+      - Volet 1 - Récap express: sciences-ingenieur/introduction-sciences-ingenieur-recap.md
+      - Volet 1 - Quiz: sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
+      - Volet 1 - Fiche: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
+      - Volet 1 - Cours: sciences-ingenieur/introduction-sciences-ingenieur.md
+      - Volet 2 - Récap express: sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
+      - Volet 2 - Quiz: sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
+      - Volet 2 - Fiche: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
+      - Volet 2 - Cours: sciences-ingenieur/besoin-exigences-structure-systeme.md
+      - Volet 3 - Récap express: sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
+      - Volet 3 - Quiz: sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
+      - Volet 3 - Fiche: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
+      - Volet 3 - Étude de cas: sciences-ingenieur/etude-cas-attacheur-ap25.md
 
 plugins:
   - search:
