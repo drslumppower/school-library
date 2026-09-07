@@ -41,6 +41,13 @@ nav:
       - Unit 0 - Cours: anglais/three-truths-two-lies.md
       - Fiche de révision: anglais/three-truths-two-lies-fiche.md
       - Quiz: anglais/three-truths-two-lies-quiz.md
+  - Sciences de l'ingénieur:
+      - Introduction - Cours: sciences-ingenieur/introduction-sciences-ingenieur.md
+      - Fiche de révision: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
+      - Besoin et structure - Cours: sciences-ingenieur/besoin-exigences-structure-systeme.md
+      - Besoin et structure - Fiche: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
+      - Étude de cas AP25 - Cours: sciences-ingenieur/etude-cas-attacheur-ap25.md
+      - Étude de cas AP25 - Fiche: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
 
 plugins:
   - search:

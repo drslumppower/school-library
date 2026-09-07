@@ -56,5 +56,28 @@ Apprendre à se présenter, corriger les erreurs courantes avec *be* et *have*, 
 [Réviser l'essentiel](anglais/three-truths-two-lies-fiche.md){ .md-button }
 [Faire le quiz](anglais/three-truths-two-lies-quiz.md){ .md-button }
 
+## Sciences de l'ingénieur
+
+### Introduction · Démarche, simulation et écarts
+
+Comprendre comment un besoin devient un système validé grâce au cahier des charges, à la modélisation, à l'expérimentation et à l'analyse des écarts.
+
+[Lire le cours synthétique](sciences-ingenieur/introduction-sciences-ingenieur.md){ .md-button .md-button--primary }
+[Réviser l'essentiel](sciences-ingenieur/introduction-sciences-ingenieur-fiche.md){ .md-button }
+
+### Volet 2 · Besoin, exigences et structure d'un système
+
+Passer du besoin aux exigences mesurables, distinguer les chaînes d'information et d'énergie, puis représenter un système avec les diagrammes SysML adaptés.
+
+[Lire le deuxième volet](sciences-ingenieur/besoin-exigences-structure-systeme.md){ .md-button .md-button--primary }
+[Réviser le deuxième volet](sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md){ .md-button }
+
+### Volet 3 · Étude de cas de l'attacheur AP25
+
+Appliquer l'analyse du besoin et des exigences à un système réel, puis identifier ses chaînes fonctionnelles, ses flux et sa séquence de fonctionnement.
+
+[Lire l'étude de cas](sciences-ingenieur/etude-cas-attacheur-ap25.md){ .md-button .md-button--primary }
+[Réviser l'étude de cas](sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md){ .md-button }
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.
