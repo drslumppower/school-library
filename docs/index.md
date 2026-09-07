@@ -16,5 +16,15 @@ Comprendre comment les lumières se mélangent, comment l'œil perçoit les coul
 [Réviser l'essentiel](physique-chimie/chapitre-17-fiche.md){ .md-button }
 [Faire le quiz](physique-chimie/chapitre-17-quiz.md){ .md-button }
 
+## Mathématiques
+
+### Second degré · Partie 1
+
+Développer avec les identités remarquables, exploiter la forme canonique et déterminer le sommet et les variations d'une parabole.
+
+[Lire le cours](mathematiques/second-degre-partie-1.md){ .md-button .md-button--primary }
+[Réviser l'essentiel](mathematiques/second-degre-partie-1-fiche.md){ .md-button }
+[Faire le quiz](mathematiques/second-degre-partie-1-quiz.md){ .md-button }
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.

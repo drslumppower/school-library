@@ -25,6 +25,10 @@ nav:
       - Chapitre 17 - Cours: physique-chimie/chapitre-17-couleurs.md
       - Fiche de révision: physique-chimie/chapitre-17-fiche.md
       - Quiz: physique-chimie/chapitre-17-quiz.md
+  - Mathématiques:
+      - Second degré - Cours: mathematiques/second-degre-partie-1.md
+      - Fiche de révision: mathematiques/second-degre-partie-1-fiche.md
+      - Quiz: mathematiques/second-degre-partie-1-quiz.md
 
 plugins:
   - search:
@@ -35,12 +39,18 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   generator: false
