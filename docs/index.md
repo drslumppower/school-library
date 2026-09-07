@@ -46,5 +46,15 @@ Comparer les cellules procaryotes, animales et végétales, puis comprendre le r
 [Réviser l'essentiel](svt/organisation-cellulaire-du-vivant-fiche.md){ .md-button }
 [Faire le quiz](svt/organisation-cellulaire-du-vivant-quiz.md){ .md-button }
 
+## Anglais
+
+### Unit 0 · Three truths, two lies
+
+Apprendre à se présenter, corriger les erreurs courantes avec *be* et *have*, puis poser des questions pour découvrir deux mensonges.
+
+[Lire le cours](anglais/three-truths-two-lies.md){ .md-button .md-button--primary }
+[Réviser l'essentiel](anglais/three-truths-two-lies-fiche.md){ .md-button }
+[Faire le quiz](anglais/three-truths-two-lies-quiz.md){ .md-button }
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.

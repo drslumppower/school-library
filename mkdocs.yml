@@ -37,6 +37,10 @@ nav:
       - Chapitre 1 - Cours: svt/organisation-cellulaire-du-vivant.md
       - Fiche de révision: svt/organisation-cellulaire-du-vivant-fiche.md
       - Quiz: svt/organisation-cellulaire-du-vivant-quiz.md
+  - Anglais:
+      - Unit 0 - Cours: anglais/three-truths-two-lies.md
+      - Fiche de révision: anglais/three-truths-two-lies-fiche.md
+      - Quiz: anglais/three-truths-two-lies-quiz.md
 
 plugins:
   - search:
