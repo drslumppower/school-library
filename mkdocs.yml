@@ -29,6 +29,10 @@ nav:
       - Second degré - Cours: mathematiques/second-degre-partie-1.md
       - Fiche de révision: mathematiques/second-degre-partie-1-fiche.md
       - Quiz: mathematiques/second-degre-partie-1-quiz.md
+  - Français:
+      - Le Menteur - Cours: francais/le-menteur-corneille.md
+      - Fiche de révision: francais/le-menteur-corneille-fiche.md
+      - Quiz: francais/le-menteur-corneille-quiz.md
 
 plugins:
   - search:

@@ -26,5 +26,15 @@ Développer avec les identités remarquables, exploiter la forme canonique et d�
 [Réviser l'essentiel](mathematiques/second-degre-partie-1-fiche.md){ .md-button }
 [Faire le quiz](mathematiques/second-degre-partie-1-quiz.md){ .md-button }
 
+## Français
+
+### *Le Menteur* · Pierre Corneille
+
+Découvrir la carrière de Corneille et comprendre comment le mensonge devient, dans la pièce, un moteur comique et une célébration du théâtre.
+
+[Lire le cours](francais/le-menteur-corneille.md){ .md-button .md-button--primary }
+[Réviser l'essentiel](francais/le-menteur-corneille-fiche.md){ .md-button }
+[Faire le quiz](francais/le-menteur-corneille-quiz.md){ .md-button }
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.
