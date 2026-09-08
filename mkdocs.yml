@@ -48,18 +48,22 @@ nav:
       - Fiche de révision: anglais/three-truths-two-lies-fiche.md
       - Cours détaillé: anglais/three-truths-two-lies.md
   - Sciences de l'ingénieur:
-      - Volet 1 - Récap express: sciences-ingenieur/introduction-sciences-ingenieur-recap.md
-      - Volet 1 - Quiz: sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
-      - Volet 1 - Fiche: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
-      - Volet 1 - Cours: sciences-ingenieur/introduction-sciences-ingenieur.md
-      - Volet 2 - Récap express: sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
-      - Volet 2 - Quiz: sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
-      - Volet 2 - Fiche: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
-      - Volet 2 - Cours: sciences-ingenieur/besoin-exigences-structure-systeme.md
-      - Volet 3 - Récap express: sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
-      - Volet 3 - Quiz: sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
-      - Volet 3 - Fiche: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
-      - Volet 3 - Étude de cas: sciences-ingenieur/etude-cas-attacheur-ap25.md
+      - La spécialité Sciences de l'Ingénieur(e):
+        - Récap express: sciences-ingenieur/introduction-sciences-ingenieur-recap.md
+        - Quiz: sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
+        - Fiche de révision: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
+        - Cours détaillé: sciences-ingenieur/introduction-sciences-ingenieur.md
+      - SI 1-1 - Comment apporter la meilleure réponse à un besoin ?:
+        - Théorie:
+          - Récap express: sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
+          - Quiz: sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
+          - Fiche de révision: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
+          - Cours détaillé: sciences-ingenieur/besoin-exigences-structure-systeme.md
+        - TD - Attacheur AP25:
+          - Récap express: sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
+          - Quiz: sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
+          - Fiche de révision: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
+          - Étude de cas détaillée: sciences-ingenieur/etude-cas-attacheur-ap25.md
 
 plugins:
   - search:
