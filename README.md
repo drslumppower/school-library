@@ -5,7 +5,8 @@ Site en français regroupant des cours, des fiches de révision et des quiz prod
 ## Organisation
 
 - `docs/` contient les pages Markdown publiées.
-- `docs/physique-chimie/` contient les cours, fiches et quiz de physique-chimie.
+- `docs/premiere/` contient les cours, fiches et quiz de Première.
+- `docs/cinquieme/` contient les cours, fiches et quiz de Cinquième.
 - `mkdocs.yml` définit la navigation et l'interface française.
 - Les PDF sources restent à la racine du dépôt et ne sont pas affichés sur le site.
 
@@ -40,7 +41,7 @@ Le workflow `.github/workflows/publier-site.yml` construit le site en mode stric
 ## Ajouter un cours
 
 1. Déposer le PDF source à la racine du dépôt.
-2. Créer le cours, la fiche et le quiz dans le dossier de la matière.
+2. Créer le cours, la fiche et le quiz dans le dossier du niveau et de la matière.
 3. Ajouter les trois pages à la section `nav` de `mkdocs.yml`.
 4. Vérifier les informations extraites du scan.
 5. Remplacer le statut `à vérifier` par `vérifié` après relecture.

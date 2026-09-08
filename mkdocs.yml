@@ -21,49 +21,69 @@ theme:
 
 nav:
   - Accueil: index.md
-  - Révision du jour: revision-du-jour.md
-  - Physique-chimie:
-      - Récap express: physique-chimie/chapitre-17-recap.md
-      - Quiz: physique-chimie/chapitre-17-quiz.md
-      - Fiche de révision: physique-chimie/chapitre-17-fiche.md
-      - Cours détaillé: physique-chimie/chapitre-17-couleurs.md
-  - Mathématiques:
-      - Récap express: mathematiques/second-degre-partie-1-recap.md
-      - Quiz: mathematiques/second-degre-partie-1-quiz.md
-      - Fiche de révision: mathematiques/second-degre-partie-1-fiche.md
-      - Cours détaillé: mathematiques/second-degre-partie-1.md
-  - Français:
-      - Récap express: francais/le-menteur-corneille-recap.md
-      - Quiz: francais/le-menteur-corneille-quiz.md
-      - Fiche de révision: francais/le-menteur-corneille-fiche.md
-      - Cours détaillé: francais/le-menteur-corneille.md
-  - SVT:
-      - Récap express: svt/organisation-cellulaire-du-vivant-recap.md
-      - Quiz: svt/organisation-cellulaire-du-vivant-quiz.md
-      - Fiche de révision: svt/organisation-cellulaire-du-vivant-fiche.md
-      - Cours détaillé: svt/organisation-cellulaire-du-vivant.md
-  - Anglais:
-      - Récap express: anglais/three-truths-two-lies-recap.md
-      - Quiz: anglais/three-truths-two-lies-quiz.md
-      - Fiche de révision: anglais/three-truths-two-lies-fiche.md
-      - Cours détaillé: anglais/three-truths-two-lies.md
-  - Sciences de l'ingénieur:
+  - Première:
+    - Accueil: premiere/index.md
+    - Révision du jour: premiere/revision-du-jour.md
+    - Physique-chimie:
+      - Récap express: premiere/physique-chimie/chapitre-17-recap.md
+      - Quiz: premiere/physique-chimie/chapitre-17-quiz.md
+      - Fiche de révision: premiere/physique-chimie/chapitre-17-fiche.md
+      - Cours détaillé: premiere/physique-chimie/chapitre-17-couleurs.md
+    - Mathématiques:
+      - Récap express: premiere/mathematiques/second-degre-partie-1-recap.md
+      - Quiz: premiere/mathematiques/second-degre-partie-1-quiz.md
+      - Fiche de révision: premiere/mathematiques/second-degre-partie-1-fiche.md
+      - Cours détaillé: premiere/mathematiques/second-degre-partie-1.md
+    - Français:
+      - Récap express: premiere/francais/le-menteur-corneille-recap.md
+      - Quiz: premiere/francais/le-menteur-corneille-quiz.md
+      - Fiche de révision: premiere/francais/le-menteur-corneille-fiche.md
+      - Cours détaillé: premiere/francais/le-menteur-corneille.md
+    - SVT:
+      - Récap express: premiere/svt/organisation-cellulaire-du-vivant-recap.md
+      - Quiz: premiere/svt/organisation-cellulaire-du-vivant-quiz.md
+      - Fiche de révision: premiere/svt/organisation-cellulaire-du-vivant-fiche.md
+      - Cours détaillé: premiere/svt/organisation-cellulaire-du-vivant.md
+    - Anglais:
+      - Récap express: premiere/anglais/three-truths-two-lies-recap.md
+      - Quiz: premiere/anglais/three-truths-two-lies-quiz.md
+      - Fiche de révision: premiere/anglais/three-truths-two-lies-fiche.md
+      - Cours détaillé: premiere/anglais/three-truths-two-lies.md
+    - Sciences de l'ingénieur:
       - La spécialité Sciences de l'Ingénieur(e):
-        - Récap express: sciences-ingenieur/introduction-sciences-ingenieur-recap.md
-        - Quiz: sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
-        - Fiche de révision: sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
-        - Cours détaillé: sciences-ingenieur/introduction-sciences-ingenieur.md
+        - Récap express: premiere/sciences-ingenieur/introduction-sciences-ingenieur-recap.md
+        - Quiz: premiere/sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
+        - Fiche de révision: premiere/sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
+        - Cours détaillé: premiere/sciences-ingenieur/introduction-sciences-ingenieur.md
       - SI 1-1 - Comment apporter la meilleure réponse à un besoin ?:
         - Théorie:
-          - Récap express: sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
-          - Quiz: sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
-          - Fiche de révision: sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
-          - Cours détaillé: sciences-ingenieur/besoin-exigences-structure-systeme.md
+          - Récap express: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
+          - Quiz: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
+          - Fiche de révision: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
+          - Cours détaillé: premiere/sciences-ingenieur/besoin-exigences-structure-systeme.md
         - TD - Attacheur AP25:
-          - Récap express: sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
-          - Quiz: sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
-          - Fiche de révision: sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
-          - Étude de cas détaillée: sciences-ingenieur/etude-cas-attacheur-ap25.md
+          - Récap express: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
+          - Quiz: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
+          - Fiche de révision: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
+          - Étude de cas détaillée: premiere/sciences-ingenieur/etude-cas-attacheur-ap25.md
+  - Cinquième:
+    - Accueil: cinquieme/index.md
+    - Révision du jour: cinquieme/revision-du-jour.md
+    - Français:
+      - Récap express: cinquieme/francais/happy-meal-anna-gavalda-recap.md
+      - Quiz: cinquieme/francais/happy-meal-anna-gavalda-quiz.md
+      - Fiche de révision: cinquieme/francais/happy-meal-anna-gavalda-fiche.md
+      - Cours détaillé: cinquieme/francais/happy-meal-anna-gavalda.md
+    - Anglais:
+      - Récap express: cinquieme/anglais/present-simple-recap.md
+      - Quiz: cinquieme/anglais/present-simple-quiz.md
+      - Fiche de révision: cinquieme/anglais/present-simple-fiche.md
+      - Cours détaillé: cinquieme/anglais/present-simple.md
+    - Mathématiques:
+      - Récap express: cinquieme/mathematiques/addition-soustraction-relatifs-recap.md
+      - Quiz: cinquieme/mathematiques/addition-soustraction-relatifs-quiz.md
+      - Fiche de révision: cinquieme/mathematiques/addition-soustraction-relatifs-fiche.md
+      - Cours détaillé: cinquieme/mathematiques/addition-soustraction-relatifs.md
 
 plugins:
   - search:

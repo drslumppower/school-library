@@ -3,7 +3,7 @@ titre: Répondre à un besoin - Exigences et structure d'un système
 matiere: Sciences de l'ingénieur
 niveau: Première - spécialité
 type: cours
-volet: 2
+partie: théorie
 statut: à vérifier
 mots_cles:
   - besoin
@@ -18,7 +18,7 @@ mots_cles:
 
 # Répondre à un besoin
 
-Ce deuxième volet approfondit l'analyse d'un système : comment identifier correctement le besoin, le traduire en exigences mesurables, choisir des solutions techniques et représenter l'organisation du produit.
+Cette partie théorique approfondit l'analyse d'un système : comment identifier correctement le besoin, le traduire en exigences mesurables, choisir des solutions techniques et représenter l'organisation du produit.
 
 ## 1. Du besoin au produit
 

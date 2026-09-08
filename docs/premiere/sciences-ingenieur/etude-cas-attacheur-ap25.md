@@ -3,7 +3,7 @@ titre: Étude de cas - Attacheur de végétation AP25
 matiere: Sciences de l'ingénieur
 niveau: Première - spécialité
 type: cours
-volet: 3
+partie: TD - Attacheur AP25
 statut: à vérifier
 mots_cles:
   - AP25
@@ -17,7 +17,7 @@ mots_cles:
 
 # Étude de cas - Attacheur AP25
 
-Ce volet applique l'analyse fonctionnelle et structurelle à l'attacheur de végétation AP25 de Pellenc.
+Cette étude de cas applique l'analyse fonctionnelle et structurelle à l'attacheur de végétation AP25 de Pellenc.
 
 ## 1. Produit et besoin
 

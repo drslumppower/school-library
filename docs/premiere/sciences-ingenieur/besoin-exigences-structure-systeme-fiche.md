@@ -3,11 +3,11 @@ titre: Fiche de révision - Besoin, exigences et structure d'un système
 matiere: Sciences de l'ingénieur
 niveau: Première - spécialité
 type: fiche de révision
-volet: 2
+partie: théorie
 statut: à vérifier
 ---
 
-# Fiche de révision - Volet 2
+# Fiche de révision - Théorie
 
 ## La logique du chapitre
 

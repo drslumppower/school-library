@@ -1,13 +1,13 @@
 ---
 titre: Récap express - Attacheur AP25
 matiere: Sciences de l'ingénieur
-volet: 3
+partie: TD - Attacheur AP25
 type: récap express
 duree: 5 minutes
 statut: à vérifier
 ---
 
-# Récap express - Volet 3
+# Récap express - TD Attacheur AP25
 
 [Fiche complète](etude-cas-attacheur-ap25-fiche.md){ .md-button } [Quiz](etude-cas-attacheur-ap25-quiz.md){ .md-button } [Approfondir l'étude de cas](etude-cas-attacheur-ap25.md){ .md-button }
 

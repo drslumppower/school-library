@@ -1,14 +1,21 @@
 :root {
   --md-text-font: "Roboto", sans-serif;
-  --school-ink: #17312b;
-  --school-paper: #fffef9;
-  --school-accent: #d84a2f;
+  --md-primary-fg-color: #087f8c;
+  --md-primary-fg-color--dark: #05646e;
+  --md-accent-fg-color: #d9462f;
+  --school-ink: #17324d;
+  --school-paper: #f7fbff;
+  --school-turquoise: #087f8c;
+  --school-coral: #d9462f;
+  --school-yellow: #ffc857;
 }
 
 body {
   background-color: var(--school-paper);
-  background-image: linear-gradient(rgba(19, 121, 104, 0.035) 1px, transparent 1px);
-  background-size: 100% 28px;
+  background-image:
+    linear-gradient(rgba(8, 127, 140, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(8, 127, 140, 0.025) 1px, transparent 1px);
+  background-size: 28px 28px;
   color: var(--school-ink);
   font-size: 16px;
   letter-spacing: 0;
@@ -37,7 +44,7 @@ strong,
 }
 
 .md-typeset h2 {
-  border-bottom: 2px solid rgba(19, 121, 104, 0.22);
+  border-bottom: 2px solid rgba(8, 127, 140, 0.25);
   color: var(--school-ink);
   font-size: 1.45rem;
   letter-spacing: 0;
@@ -53,14 +60,14 @@ strong,
 }
 
 .md-typeset .md-button--primary {
-  background-color: #137968;
-  border-color: #137968;
+  background-color: var(--school-turquoise);
+  border-color: var(--school-turquoise);
 }
 
 .md-typeset .md-button--primary:focus,
 .md-typeset .md-button--primary:hover {
-  background-color: #0c5c50;
-  border-color: #0c5c50;
+  background-color: #05646e;
+  border-color: #05646e;
 }
 
 .md-nav__link,
@@ -86,6 +93,61 @@ strong,
   min-height: 44px;
 }
 
+.level-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 2rem;
+}
+
+.level-card {
+  border: 1px solid rgba(23, 50, 77, 0.14);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(23, 50, 77, 0.08);
+  padding: 1.25rem;
+}
+
+.level-card--premiere {
+  background: linear-gradient(145deg, #ffffff 45%, #dff7f8 100%);
+  border-top: 6px solid var(--school-turquoise);
+}
+
+.level-card--cinquieme {
+  background: linear-gradient(145deg, #ffffff 45%, #fff0e9 100%);
+  border-top: 6px solid var(--school-coral);
+}
+
+.level-card h2 {
+  margin-top: 0;
+}
+
+.level-card--premiere h2 {
+  color: #05646e;
+}
+
+.level-card--cinquieme h2 {
+  color: #b93623;
+}
+
+.level-card--cinquieme .md-button--primary {
+  background-color: var(--school-coral);
+  border-color: var(--school-coral);
+}
+
+.level-card--cinquieme .md-button--primary:focus,
+.level-card--cinquieme .md-button--primary:hover {
+  background-color: #b93623;
+  border-color: #b93623;
+}
+
+.md-typeset .admonition.tip {
+  border-color: var(--school-yellow);
+}
+
+.md-typeset .admonition.tip > .admonition-title {
+  background-color: rgba(255, 200, 87, 0.24);
+}
+
 @media screen and (max-width: 44.984375em) {
   .md-typeset h1 {
     font-size: 1.7rem;
@@ -99,5 +161,9 @@ strong,
     justify-content: center;
     margin-bottom: 0.5rem;
     width: 100%;
+  }
+
+  .level-grid {
+    grid-template-columns: 1fr;
   }
 }

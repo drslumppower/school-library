@@ -1,11 +1,11 @@
 ---
-titre: Révision du jour
+titre: Révision du jour · Première
 type: quiz mixte
 duree: 10 minutes
 statut: à vérifier
 ---
 
-# Révision du jour
+# Révision du jour · Première
 
 Dix questions tirées de plusieurs matières. Réponds de mémoire, puis ouvre chaque correction.
 

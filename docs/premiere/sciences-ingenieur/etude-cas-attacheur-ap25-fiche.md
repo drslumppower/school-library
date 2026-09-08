@@ -3,7 +3,7 @@ titre: Fiche de révision - Attacheur AP25
 matiere: Sciences de l'ingénieur
 niveau: Première - spécialité
 type: fiche de révision
-volet: 3
+partie: TD - Attacheur AP25
 statut: à vérifier
 ---
 

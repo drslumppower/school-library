@@ -1,7 +1,7 @@
 ---
 titre: Quiz - Démarche, simulation et écarts
 matiere: Sciences de l'ingénieur
-volet: 1
+partie: spécialité
 type: quiz
 statut: à vérifier
 ---

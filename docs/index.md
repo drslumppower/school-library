@@ -4,104 +4,31 @@ title: Accueil
 
 # Bibliothèque scolaire
 
-Réviser vite et bien : un **récap express** par chapitre, une **fiche** pour approfondir, un **quiz** pour vérifier.
-
-[Révision du jour](revision-du-jour.md){ .md-button .md-button--primary }
+Choisis ton niveau pour retrouver tes cours, tes fiches de révision et tes quiz.
 
 !!! tip "Comment utiliser le site"
     Commence par le récap express, puis fais le quiz. Ouvre la fiche si une notion résiste, et le cours seulement en cas de besoin.
 
-## Physique-chimie
+<div class="level-grid" markdown>
 
-### Chapitre 17 · Couleurs, trichromie et synthèses
+<section class="level-card level-card--premiere" markdown>
 
-Mélanges de lumières et de matières, couleur perçue d'un objet et vision trichromatique.
+## Première
 
-[Réviser en 5 min](physique-chimie/chapitre-17-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](physique-chimie/chapitre-17-quiz.md){ .md-button }
-[Fiche complète](physique-chimie/chapitre-17-fiche.md){ .md-button }
+Physique-chimie, mathématiques, français, SVT, anglais et sciences de l'ingénieur.
 
-Pour approfondir : [cours détaillé](physique-chimie/chapitre-17-couleurs.md).
+[Entrer dans l'espace Première](premiere/index.md){ .md-button .md-button--primary }
 
-## Mathématiques
+</section>
 
-### Second degré · Partie 1
+<section class="level-card level-card--cinquieme" markdown>
 
-Identités remarquables, forme canonique, sommet, variations et lecture graphique.
+## Cinquième
 
-[Réviser en 5 min](mathematiques/second-degre-partie-1-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](mathematiques/second-degre-partie-1-quiz.md){ .md-button }
-[Fiche complète](mathematiques/second-degre-partie-1-fiche.md){ .md-button }
+Un nouvel espace prêt à accueillir les cours et les révisions de Cinquième.
 
-Pour approfondir : [cours détaillé](mathematiques/second-degre-partie-1.md).
+[Entrer dans l'espace Cinquième](cinquieme/index.md){ .md-button .md-button--primary }
 
-## Français
+</section>
 
-### *Le Menteur* · Pierre Corneille
-
-Repères sur Corneille, rôle du mensonge dans l'intrigue et apologie du théâtre.
-
-[Réviser en 5 min](francais/le-menteur-corneille-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](francais/le-menteur-corneille-quiz.md){ .md-button }
-[Fiche complète](francais/le-menteur-corneille-fiche.md){ .md-button }
-
-Pour approfondir : [cours détaillé](francais/le-menteur-corneille.md).
-
-## SVT
-
-### Chapitre 1 · L'organisation cellulaire du vivant
-
-Types de cellules, organites, mitose et information génétique.
-
-[Réviser en 5 min](svt/organisation-cellulaire-du-vivant-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](svt/organisation-cellulaire-du-vivant-quiz.md){ .md-button }
-[Fiche complète](svt/organisation-cellulaire-du-vivant-fiche.md){ .md-button }
-
-Pour approfondir : [cours détaillé](svt/organisation-cellulaire-du-vivant.md).
-
-## Anglais
-
-### Unit 0 · Three truths, two lies
-
-Se présenter, utiliser *be* et *have* correctement et poser des questions ciblées.
-
-[Réviser en 5 min](anglais/three-truths-two-lies-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](anglais/three-truths-two-lies-quiz.md){ .md-button }
-[Fiche complète](anglais/three-truths-two-lies-fiche.md){ .md-button }
-
-Pour approfondir : [cours détaillé](anglais/three-truths-two-lies.md).
-
-## Sciences de l'ingénieur
-
-### Volet 1 · Démarche, simulation et écarts
-
-Modèle, simulation, expérimentation et calcul des écarts.
-
-[Réviser en 5 min](sciences-ingenieur/introduction-sciences-ingenieur-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](sciences-ingenieur/introduction-sciences-ingenieur-quiz.md){ .md-button }
-[Fiche complète](sciences-ingenieur/introduction-sciences-ingenieur-fiche.md){ .md-button }
-
-Pour approfondir : [cours détaillé](sciences-ingenieur/introduction-sciences-ingenieur.md).
-
-### Volet 2 · Besoin, exigences et structure
-
-Types de besoins, exigences mesurables, chaînes fonctionnelles et SysML.
-
-[Réviser en 5 min](sciences-ingenieur/besoin-exigences-structure-systeme-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md){ .md-button }
-[Fiche complète](sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md){ .md-button }
-
-Pour approfondir : [cours détaillé](sciences-ingenieur/besoin-exigences-structure-systeme.md).
-
-### Volet 3 · Étude de cas de l'attacheur AP25
-
-Besoin, exigences chiffrées, architecture et cycle de fonctionnement.
-
-[Réviser en 5 min](sciences-ingenieur/etude-cas-attacheur-ap25-recap.md){ .md-button .md-button--primary }
-[Faire le quiz](sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md){ .md-button }
-[Fiche complète](sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md){ .md-button }
-
-Pour approfondir : [étude de cas détaillée](sciences-ingenieur/etude-cas-attacheur-ap25.md).
-
-!!! info "Contenu à vérifier"
-    Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.
+</div>

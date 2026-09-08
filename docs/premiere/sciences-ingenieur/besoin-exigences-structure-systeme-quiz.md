@@ -1,7 +1,7 @@
 ---
 titre: Quiz - Besoin, exigences et structure
 matiere: Sciences de l'ingénieur
-volet: 2
+partie: théorie
 type: quiz
 statut: à vérifier
 ---

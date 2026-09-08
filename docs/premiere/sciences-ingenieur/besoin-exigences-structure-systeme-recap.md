@@ -1,13 +1,13 @@
 ---
 titre: Récap express - Besoin, exigences et structure
 matiere: Sciences de l'ingénieur
-volet: 2
+partie: théorie
 type: récap express
 duree: 5 minutes
 statut: à vérifier
 ---
 
-# Récap express - Volet 2
+# Récap express - Théorie
 
 [Fiche complète](besoin-exigences-structure-systeme-fiche.md){ .md-button } [Quiz](besoin-exigences-structure-systeme-quiz.md){ .md-button } [Approfondir le cours](besoin-exigences-structure-systeme.md){ .md-button }
 

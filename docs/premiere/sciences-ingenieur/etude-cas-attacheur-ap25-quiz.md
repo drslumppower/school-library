@@ -1,7 +1,7 @@
 ---
 titre: Quiz - Attacheur AP25
 matiere: Sciences de l'ingénieur
-volet: 3
+partie: TD - Attacheur AP25
 type: quiz
 statut: à vérifier
 ---

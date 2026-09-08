@@ -1,13 +1,13 @@
 ---
 titre: Récap express - Démarche, simulation et écarts
 matiere: Sciences de l'ingénieur
-volet: 1
+partie: spécialité
 type: récap express
 duree: 5 minutes
 statut: à vérifier
 ---
 
-# Récap express - Volet 1
+# Récap express - La spécialité Sciences de l'Ingénieur(e)
 
 [Fiche complète](introduction-sciences-ingenieur-fiche.md){ .md-button } [Quiz](introduction-sciences-ingenieur-quiz.md){ .md-button } [Approfondir le cours](introduction-sciences-ingenieur.md){ .md-button }
 
