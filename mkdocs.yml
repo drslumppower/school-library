@@ -25,10 +25,16 @@ nav:
     - Accueil: premiere/index.md
     - Révision du jour: premiere/revision-du-jour.md
     - Physique-chimie:
-      - Récap express: premiere/physique-chimie/chapitre-17-recap.md
-      - Quiz: premiere/physique-chimie/chapitre-17-quiz.md
-      - Fiche de révision: premiere/physique-chimie/chapitre-17-fiche.md
-      - Cours détaillé: premiere/physique-chimie/chapitre-17-couleurs.md
+      - Tronc commun - Éléments chimiques et réactions nucléaires:
+        - Récap express: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-recap.md
+        - Quiz: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-quiz.md
+        - Fiche de révision: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-fiche.md
+        - Cours détaillé: premiere/physique-chimie/elements-chimiques-reactions-nucleaires.md
+      - Spécialité - Couleurs, vision et synthèses:
+        - Récap express: premiere/physique-chimie/chapitre-17-recap.md
+        - Quiz: premiere/physique-chimie/chapitre-17-quiz.md
+        - Fiche de révision: premiere/physique-chimie/chapitre-17-fiche.md
+        - Cours détaillé: premiere/physique-chimie/chapitre-17-couleurs.md
     - Mathématiques:
       - Récap express: premiere/mathematiques/second-degre-partie-1-recap.md
       - Quiz: premiere/mathematiques/second-degre-partie-1-quiz.md
@@ -45,10 +51,16 @@ nav:
       - Fiche de révision: premiere/svt/organisation-cellulaire-du-vivant-fiche.md
       - Cours détaillé: premiere/svt/organisation-cellulaire-du-vivant.md
     - Anglais:
-      - Récap express: premiere/anglais/three-truths-two-lies-recap.md
-      - Quiz: premiere/anglais/three-truths-two-lies-quiz.md
-      - Fiche de révision: premiere/anglais/three-truths-two-lies-fiche.md
-      - Cours détaillé: premiere/anglais/three-truths-two-lies.md
+      - Three truths, two lies:
+        - Récap express: premiere/anglais/three-truths-two-lies-recap.md
+        - Quiz: premiere/anglais/three-truths-two-lies-quiz.md
+        - Fiche de révision: premiere/anglais/three-truths-two-lies-fiche.md
+        - Cours détaillé: premiere/anglais/three-truths-two-lies.md
+      - Holiday Survey - Prétérit:
+        - Récap express: premiere/anglais/holiday-survey-preterit-recap.md
+        - Quiz: premiere/anglais/holiday-survey-preterit-quiz.md
+        - Fiche de révision: premiere/anglais/holiday-survey-preterit-fiche.md
+        - Cours détaillé: premiere/anglais/holiday-survey-preterit.md
     - Sciences de l'ingénieur:
       - La spécialité Sciences de l'Ingénieur(e):
         - Récap express: premiere/sciences-ingenieur/introduction-sciences-ingenieur-recap.md
@@ -66,24 +78,24 @@ nav:
           - Quiz: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
           - Fiche de révision: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
           - Étude de cas détaillée: premiere/sciences-ingenieur/etude-cas-attacheur-ap25.md
-  - Cinquième:
-    - Accueil: cinquieme/index.md
-    - Révision du jour: cinquieme/revision-du-jour.md
+  - Quatrième:
+    - Accueil: quatrieme/index.md
+    - Révision du jour: quatrieme/revision-du-jour.md
     - Français:
-      - Récap express: cinquieme/francais/happy-meal-anna-gavalda-recap.md
-      - Quiz: cinquieme/francais/happy-meal-anna-gavalda-quiz.md
-      - Fiche de révision: cinquieme/francais/happy-meal-anna-gavalda-fiche.md
-      - Cours détaillé: cinquieme/francais/happy-meal-anna-gavalda.md
+      - Récap express: quatrieme/francais/happy-meal-anna-gavalda-recap.md
+      - Quiz: quatrieme/francais/happy-meal-anna-gavalda-quiz.md
+      - Fiche de révision: quatrieme/francais/happy-meal-anna-gavalda-fiche.md
+      - Cours détaillé: quatrieme/francais/happy-meal-anna-gavalda.md
     - Anglais:
-      - Récap express: cinquieme/anglais/present-simple-recap.md
-      - Quiz: cinquieme/anglais/present-simple-quiz.md
-      - Fiche de révision: cinquieme/anglais/present-simple-fiche.md
-      - Cours détaillé: cinquieme/anglais/present-simple.md
+      - Récap express: quatrieme/anglais/present-simple-recap.md
+      - Quiz: quatrieme/anglais/present-simple-quiz.md
+      - Fiche de révision: quatrieme/anglais/present-simple-fiche.md
+      - Cours détaillé: quatrieme/anglais/present-simple.md
     - Mathématiques:
-      - Récap express: cinquieme/mathematiques/addition-soustraction-relatifs-recap.md
-      - Quiz: cinquieme/mathematiques/addition-soustraction-relatifs-quiz.md
-      - Fiche de révision: cinquieme/mathematiques/addition-soustraction-relatifs-fiche.md
-      - Cours détaillé: cinquieme/mathematiques/addition-soustraction-relatifs.md
+      - Récap express: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
+      - Quiz: quatrieme/mathematiques/addition-soustraction-relatifs-quiz.md
+      - Fiche de révision: quatrieme/mathematiques/addition-soustraction-relatifs-fiche.md
+      - Cours détaillé: quatrieme/mathematiques/addition-soustraction-relatifs.md
 
 plugins:
   - search:
@@ -105,6 +117,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/quiz-progress.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra:

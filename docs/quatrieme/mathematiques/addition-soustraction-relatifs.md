@@ -1,7 +1,7 @@
 ---
 titre: Addition et soustraction de nombres relatifs
 matiere: Mathématiques
-niveau: Cinquième
+niveau: Quatrième
 type: cours
 statut: à vérifier
 ---

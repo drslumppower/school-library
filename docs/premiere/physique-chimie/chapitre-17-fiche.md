@@ -2,7 +2,7 @@
 titre: Fiche de révision - Couleurs, trichromie et synthèses
 matiere: Physique-chimie
 niveau: Première - spécialité
-chapitre: 17
+chapitre: Couleurs, vision et synthèses
 type: fiche de révision
 statut: à vérifier
 ---
@@ -51,6 +51,9 @@ En synthèse additive, deux lumières complémentaires donnent du **blanc**. En 
 
 La couleur perçue correspond aux radiations diffusées ou transmises qui atteignent l'œil.
 
+!!! note "Vocabulaire"
+    La lumière reçue par l'objet est la lumière **incidente**. Un objet opaque ne la transmet pas.
+
 ### Action des filtres colorés
 
 | Filtre | Radiation principalement absorbée | Radiations transmises |
@@ -60,6 +63,8 @@ La couleur perçue correspond aux radiations diffusées ou transmises qui atteig
 | jaune | bleu | rouge et vert, donc jaune |
 
 Ainsi, un filtre jaune éclairé en lumière blanche absorbe le **bleu** et transmet le **rouge** et le **vert**.
+
+Deux filtres superposés transmettent uniquement leurs composantes communes : jaune $(R+V)$ puis cyan $(V+B)$ donnent du **vert**.
 
 ## La méthode pour trouver la couleur d'un objet
 
@@ -88,6 +93,7 @@ Autres exemples à connaître :
 ## Vision et daltonisme
 
 - La rétine possède trois types de **cônes** principalement sensibles au bleu, au vert et au rouge.
+- Les domaines de sensibilité des cônes se chevauchent.
 - Le cerveau construit la couleur à partir des signaux envoyés par ces cônes.
 - Un dysfonctionnement de certains cônes modifie la perception : c'est le **daltonisme**.
 

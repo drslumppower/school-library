@@ -53,10 +53,10 @@ Donne les quatre fonctions de la chaîne d'énergie.
 
 ## Question 7 · Physique-chimie
 
-Un objet magenta est éclairé en lumière verte. De quelle couleur paraît-il ?
+Quelle différence fondamentale existe entre fusion et fission nucléaires ?
 
 ??? success "Voir la réponse"
-    Noir : il diffuse le rouge et le bleu, absents de la lumière verte.
+    La fusion assemble des noyaux légers pour former un noyau plus lourd ; la fission sépare un noyau lourd en noyaux plus légers.
 
 ## Question 8 · Mathématiques
 

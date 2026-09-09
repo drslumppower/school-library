@@ -1,11 +1,11 @@
 ---
-titre: Révision du jour · Cinquième
+titre: Révision du jour · Quatrième
 type: quiz mixte
 duree: 10 minutes
 statut: à vérifier
 ---
 
-# Révision du jour · Cinquième
+# Révision du jour · Quatrième
 
 Réponds de mémoire, puis ouvre chaque correction.
 
@@ -78,4 +78,4 @@ Que vaut la somme de deux nombres opposés ?
 - 6 à 8 : cible les fiches des chapitres ratés.
 - 9 bonnes réponses : passe aux quiz complets.
 
-[Retour à l'espace Cinquième](index.md){ .md-button .md-button--primary }
+[Retour à l'espace Quatrième](index.md){ .md-button .md-button--primary }

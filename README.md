@@ -6,7 +6,7 @@ Site en français regroupant des cours, des fiches de révision et des quiz prod
 
 - `docs/` contient les pages Markdown publiées.
 - `docs/premiere/` contient les cours, fiches et quiz de Première.
-- `docs/cinquieme/` contient les cours, fiches et quiz de Cinquième.
+- `docs/quatrieme/` contient les cours, fiches et quiz de Quatrième.
 - `mkdocs.yml` définit la navigation et l'interface française.
 - Les PDF sources restent à la racine du dépôt et ne sont pas affichés sur le site.
 

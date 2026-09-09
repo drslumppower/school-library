@@ -1,7 +1,8 @@
 ---
 titre: Récap express - Couleurs et synthèses
 matiere: Physique-chimie
-chapitre: 17
+niveau: Première - spécialité
+chapitre: Couleurs, vision et synthèses
 type: récap express
 duree: 5 minutes
 statut: à vérifier
@@ -22,7 +23,7 @@ statut: à vérifier
 7. Un objet ne renvoie que les composantes présentes dans la lumière reçue.
 8. Couleur perçue = composantes communes entre l'éclairage et l'objet.
 9. Aucune composante commune : l'objet paraît **noir**.
-10. La vision est trichromatique : trois types de cônes (bleu, vert, rouge).
+10. La vision est trichromatique : trois types de cônes aux sensibilités partiellement superposées.
 
 ## Le réflexe de méthode
 

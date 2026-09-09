@@ -13,7 +13,17 @@ Réviser vite et bien : un **récap express** par chapitre, une **fiche** pour a
 
 ## Physique-chimie
 
-### Chapitre 17 · Couleurs, trichromie et synthèses
+### Tronc commun · Éléments chimiques et réactions nucléaires
+
+Formation des éléments dans l'Univers, fusion, fission et abondances chimiques.
+
+[Réviser en 5 min](physique-chimie/elements-chimiques-reactions-nucleaires-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](physique-chimie/elements-chimiques-reactions-nucleaires-quiz.md){ .md-button }
+[Fiche complète](physique-chimie/elements-chimiques-reactions-nucleaires-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](physique-chimie/elements-chimiques-reactions-nucleaires.md).
+
+### Spécialité · Couleurs, vision et synthèses
 
 Mélanges de lumières et de matières, couleur perçue d'un objet et vision trichromatique.
 
@@ -70,6 +80,16 @@ Se présenter, utiliser *be* et *have* correctement et poser des questions cibl�
 [Fiche complète](anglais/three-truths-two-lies-fiche.md){ .md-button }
 
 Pour approfondir : [cours détaillé](anglais/three-truths-two-lies.md).
+
+### Unit 0 · Holiday Survey
+
+Raconter ses vacances au prétérit et poser des questions précises avec **did**.
+
+[Réviser en 5 min](anglais/holiday-survey-preterit-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](anglais/holiday-survey-preterit-quiz.md){ .md-button }
+[Fiche complète](anglais/holiday-survey-preterit-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](anglais/holiday-survey-preterit.md).
 
 ## Sciences de l'ingénieur
 

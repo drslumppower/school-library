@@ -32,6 +32,19 @@ $$
 | développée | $ax^2+bx+c$ | coefficients $a$, $b$ et $c$ |
 | canonique | $a(x-\alpha)^2+\beta$ | sommet $S(\alpha;\beta)$ |
 
+$$
+\boxed{\alpha=-\frac{b}{2a}}
+\qquad
+\boxed{\beta=f(\alpha)}
+$$
+
+### Obtenir la forme canonique
+
+1. Identifier $a$, $b$ et $c$.
+2. Calculer $\alpha=-\dfrac{b}{2a}$.
+3. Calculer $\beta=f(\alpha)$.
+4. Écrire $a(x-\alpha)^2+\beta$.
+
 ## Sommet et variations
 
 === "$a>0$"
@@ -58,6 +71,25 @@ $$
 | $g(x)=-3x^2-6x-1{,}5$ | $-3(x+1)^2+1{,}5$ | $S(-1;1{,}5)$ | maximum $1{,}5$ |
 | $h(x)=3(x-6)^2+\dfrac{4}{3}$ | déjà canonique | $S(6;\frac{4}{3})$ | minimum $\frac{4}{3}$ |
 | $i(x)=-(x+3{,}3)^2+\sqrt{2}$ | déjà canonique | $S(-3{,}3;\sqrt{2})$ | maximum $\sqrt{2}$ |
+
+## Applications représentatives
+
+| Fonction | Forme canonique | Variations |
+|---|---|---|
+| $x^2+6x-15$ | $(x+3)^2-24$ | décroît puis croît ; minimum $-24$ en $-3$ |
+| $2x^2-8x-16$ | $2(x-2)^2-24$ | décroît puis croît ; minimum $-24$ en $2$ |
+| $5-4x^2-8x$ | $-4(x+1)^2+9$ | croît puis décroît ; maximum $9$ en $-1$ |
+| $-2(x+1)(x-2)$ | $-2\left(x-\frac12\right)^2+\frac92$ | croît puis décroît ; maximum $\frac92$ en $\frac12$ |
+
+### Depuis un graphique
+
+Si le sommet est $A(2;5)$ et si $B(0;-3)$ appartient à la parabole :
+
+$$
+h(x)=a(x-2)^2+5,\qquad -3=4a+5,\qquad a=-2
+$$
+
+Donc $h(x)=-2(x-2)^2+5$.
 
 ## Méthodes rapides
 
@@ -92,4 +124,5 @@ Sur le premier graphique, les solutions de $f(x)=0$ sont $-3$, $1$ et $5$.
 - Le sommet de $a(x-\alpha)^2+\beta$ a pour abscisse $\alpha$, avec le signe écrit dans la parenthèse : $(x+1)^2=(x-(-1))^2$.
 - Ne pas oublier le double produit $2ab$ dans le développement d'un carré.
 - Ne pas confondre les coordonnées du sommet avec les coefficients de la forme développée.
+- Dans $\alpha=-\dfrac{b}{2a}$, le dénominateur est **$2a$** et non 2 seulement.
 - Dans un tableau de variations, la première ligne contient les abscisses et la seconde les valeurs de la fonction.

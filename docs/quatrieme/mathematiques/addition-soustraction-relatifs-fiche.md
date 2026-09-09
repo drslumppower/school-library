@@ -1,7 +1,7 @@
 ---
 titre: Fiche de révision - Addition et soustraction de relatifs
 matiere: Mathématiques
-niveau: Cinquième
+niveau: Quatrième
 type: fiche de révision
 statut: à vérifier
 ---

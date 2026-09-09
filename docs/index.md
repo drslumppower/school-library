@@ -21,13 +21,13 @@ Physique-chimie, mathématiques, français, SVT, anglais et sciences de l'ingén
 
 </section>
 
-<section class="level-card level-card--cinquieme" markdown>
+<section class="level-card level-card--quatrieme" markdown>
 
-## Cinquième
+## Quatrième
 
-Un nouvel espace prêt à accueillir les cours et les révisions de Cinquième.
+Un nouvel espace prêt à accueillir les cours et les révisions de Quatrième.
 
-[Entrer dans l'espace Cinquième](cinquieme/index.md){ .md-button .md-button--primary }
+[Entrer dans l'espace Quatrième](quatrieme/index.md){ .md-button .md-button--primary }
 
 </section>
 

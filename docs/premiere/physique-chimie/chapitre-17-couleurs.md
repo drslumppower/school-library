@@ -2,7 +2,7 @@
 titre: Couleurs, trichromie et synthèses
 matiere: Physique-chimie
 niveau: Première - spécialité
-chapitre: 17
+chapitre: Couleurs, vision et synthèses
 source: Physique-chimie 01.pdf
 date_import: 2026-09-04
 statut: à vérifier
@@ -51,7 +51,7 @@ En faisant varier l'intensité de chacune des trois lumières primaires, on peut
 
 ## 2. Vision trichromatique
 
-La rétine contient des cellules sensibles à la lumière appelées **cônes**. L'œil humain possède trois types de cônes, sensibles principalement à des domaines correspondant au bleu, au vert et au rouge.
+La rétine contient des cellules sensibles à la lumière appelées **cônes**. L'œil humain possède trois types de cônes, sensibles principalement à des domaines correspondant au bleu, au vert et au rouge. Leurs domaines de sensibilité se **chevauchent** : une même lumière peut donc activer plusieurs types de cônes.
 
 Une lumière peut stimuler plusieurs types de cônes avec des intensités différentes. Le cerveau interprète la combinaison de ces signaux et construit la couleur perçue. La vision est dite **trichromatique** parce qu'elle repose sur trois types de cônes.
 
@@ -61,13 +61,15 @@ Le **daltonisme** est lié au dysfonctionnement d'un ou de plusieurs types de c�
 
 ## 3. Couleur, absorption, diffusion et transmission
 
-Lorsqu'une lumière blanche éclaire un objet, elle apporte les composantes rouge, verte et bleue. L'objet peut :
+Lorsqu'une lumière **incidente** éclaire un objet, celui-ci interagit avec les radiations qu'elle contient. Il peut :
 
 - **absorber** certaines composantes, qui ne parviennent pas à l'œil ;
 - **diffuser** certaines composantes vers l'observateur ;
 - **transmettre** certaines composantes s'il est transparent ou translucide.
 
 La couleur perçue correspond aux lumières diffusées ou transmises par l'objet.
+
+Un objet opaque ne transmet pas la lumière. Un objet transparent ou translucide peut être traversé par une partie de la lumière incidente.
 
 ### Exemple d'un objet cyan
 
@@ -93,6 +95,13 @@ Ses trois couleurs primaires sont le **cyan**, le **magenta** et le **jaune** (C
 | cyan + magenta + jaune | noir |
 
 Deux couleurs de matière sont complémentaires lorsque leur superposition idéale absorbe toutes les composantes de la lumière et produit du noir.
+
+### Superposer des filtres
+
+Chaque filtre ne transmet que certaines composantes. Deux filtres superposés ne laissent passer que les composantes qu'ils transmettent **tous les deux**.
+
+!!! example "Filtres jaune et cyan"
+  Un filtre jaune transmet le rouge et le vert. Un filtre cyan transmet le vert et le bleu. Leur seule composante commune est le vert : la lumière obtenue est **verte**.
 
 ## 5. Prévoir la couleur apparente d'un objet
 
@@ -122,4 +131,4 @@ Un costume cyan peut diffuser le vert et le bleu, mais absorbe le rouge :
 - La vision humaine des couleurs repose sur trois types de cônes.
 
 !!! note "Validation"
-    Cette leçon a été reconstruite à partir d'un document scanné de quatre pages. Elle doit être comparée au cours original avant de passer son statut à « vérifié ».
+  Cette leçon a été synthétisée à partir des documents photographiés. Elle doit être comparée au cours original avant de passer son statut à « vérifié ».

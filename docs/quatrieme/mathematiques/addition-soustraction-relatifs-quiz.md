@@ -1,7 +1,7 @@
 ---
 titre: Quiz - Addition et soustraction de relatifs
 matiere: Mathématiques
-niveau: Cinquième
+niveau: Quatrième
 type: quiz
 statut: à vérifier
 ---

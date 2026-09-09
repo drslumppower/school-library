@@ -17,15 +17,15 @@ statut: à vérifier
 3. $(a+b)(a-b)=a^2-b^2$.
 4. Forme développée : $f(x)=ax^2+bx+c$ avec $a\neq0$.
 5. Forme canonique : $f(x)=a(x-\alpha)^2+\beta$.
-6. Sommet de la parabole : $S(\alpha;\beta)$.
-7. Si $a>0$ : parabole vers le haut, **minimum** $\beta$ en $x=\alpha$.
-8. Si $a<0$ : parabole vers le bas, **maximum** $\beta$ en $x=\alpha$.
-9. $f(x)=k$ se lit aux intersections avec la droite $y=k$.
-10. $f(x)\leq k$ se lit sur les portions de courbe situées sous $y=k$.
+6. $\alpha=-\dfrac{b}{2a}$ et $\beta=f(\alpha)$.
+7. Sommet : $S(\alpha;\beta)$ ; axe de symétrie : $x=\alpha$.
+8. Si $a>0$ : parabole vers le haut, **minimum** $\beta$ en $x=\alpha$.
+9. Si $a<0$ : parabole vers le bas, **maximum** $\beta$ en $x=\alpha$.
+10. Variations : le sens change une seule fois, en $x=\alpha$.
 
 ## Le réflexe de méthode
 
-**Repérer le signe de $a$ → lire $\alpha$ et $\beta$ → en déduire sommet, extremum et variations.**
+**Calculer $\alpha=-\dfrac{b}{2a}$ → calculer $\beta=f(\alpha)$ → écrire la forme canonique → utiliser le signe de $a$.**
 
 ## L'exemple à retenir
 

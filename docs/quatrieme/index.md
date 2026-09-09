@@ -1,10 +1,10 @@
 ---
-title: Cinquième
+title: Quatrième
 ---
 
-# Espace Cinquième
+# Espace Quatrième
 
-Retrouve ici les cours, les fiches de révision et les quiz de Cinquième.
+Retrouve ici les cours, les fiches de révision et les quiz de Quatrième.
 
 [Révision du jour](revision-du-jour.md){ .md-button .md-button--primary }
 

@@ -89,8 +89,36 @@ Développe et réduis $B(x)=(9x-3)(9x+3)+(-2x+8)^2$.
 
     Donc $B(x)=85x^2-32x+55$.
 
+## Question 12
+
+Pour $f(x)=ax^2+bx+c$, comment calcule-t-on $\alpha$ et $\beta$ ?
+
+??? success "Voir la réponse"
+    $\alpha=-\dfrac{b}{2a}$ et $\beta=f(\alpha)$.
+
+## Question 13
+
+Mets $f(x)=x^2+6x-15$ sous forme canonique et donne son minimum.
+
+??? success "Voir la réponse"
+    $\alpha=-3$ et $\beta=f(-3)=-24$. Donc $f(x)=(x+3)^2-24$ et son minimum est $-24$, atteint pour $x=-3$.
+
+## Question 14
+
+Dresse les variations de $g(x)=-2(x+1)(x-2)$.
+
+??? success "Voir la réponse"
+    $g(x)=-2x^2+2x+4$, donc $\alpha=\dfrac12$ et $\beta=\dfrac92$. Comme $a<0$, $g$ croît sur $]-\infty;\frac12]$, puis décroît sur $[\frac12;+\infty[$. Son maximum est $\dfrac92$.
+
+## Question 15
+
+Une parabole a pour sommet $A(2;5)$ et passe par $B(0;-3)$. Détermine une expression de la fonction $h$ associée.
+
+??? success "Voir la réponse"
+    $h(x)=a(x-2)^2+5$. Avec $B$, $-3=4a+5$, donc $a=-2$. Ainsi $h(x)=-2(x-2)^2+5$.
+
 ## Auto-évaluation
 
-- **9 à 11 bonnes réponses** : les notions essentielles sont maîtrisées.
-- **6 à 8 bonnes réponses** : relis la fiche, surtout la forme canonique et les variations.
-- **0 à 5 bonnes réponses** : reprends le cours et refais les développements pas à pas.
+- **12 à 15 bonnes réponses** : les notions essentielles sont maîtrisées.
+- **8 à 11 bonnes réponses** : relis la fiche, surtout la forme canonique et les variations.
+- **0 à 7 bonnes réponses** : reprends le cours et refais les exercices-types pas à pas.

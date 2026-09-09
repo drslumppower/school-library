@@ -1,7 +1,7 @@
 ---
 titre: Récap express - Addition et soustraction de relatifs
 matiere: Mathématiques
-niveau: Cinquième
+niveau: Quatrième
 type: récap express
 duree: 5 minutes
 statut: à vérifier

@@ -2,7 +2,7 @@
 titre: Quiz - Couleurs, trichromie et synthèses
 matiere: Physique-chimie
 niveau: Première - spécialité
-chapitre: 17
+chapitre: Couleurs, vision et synthèses
 type: quiz
 statut: à vérifier
 ---
@@ -81,8 +81,22 @@ Explique en une phrase pourquoi une personne dont les cônes sensibles au vert d
 ??? success "Voir la réponse"
     Sans signal vert fiable, les combinaisons de signaux envoyées au cerveau pour certaines nuances rouges et vertes deviennent trop proches pour être distinguées correctement.
 
+## Question 11
+
+Une lumière blanche traverse successivement un filtre jaune puis un filtre cyan. Quelle couleur sort du second filtre ?
+
+??? success "Voir la réponse"
+    Du vert. Le filtre jaune transmet le rouge et le vert ; le filtre cyan transmet le vert et le bleu. Leur seule composante commune est le vert.
+
+## Question 12
+
+Une banane jaune est éclairée uniquement par une lumière verte. De quelle couleur paraît-elle ?
+
+??? success "Voir la réponse"
+    Elle paraît verte : une banane jaune peut diffuser le rouge et le vert, mais seule la composante verte est présente dans l'éclairage.
+
 ## Auto-évaluation
 
-- **8 à 10 bonnes réponses** : les notions essentielles sont maîtrisées.
-- **5 à 7 bonnes réponses** : relis la fiche, surtout les tableaux RVB et CMJ.
-- **0 à 4 bonnes réponses** : reprends le cours section par section, puis refais le quiz.
+- **10 à 12 bonnes réponses** : les notions essentielles sont maîtrisées.
+- **6 à 9 bonnes réponses** : relis la fiche, surtout les tableaux RVB et CMJ.
+- **0 à 5 bonnes réponses** : reprends le cours section par section, puis refais le quiz.
