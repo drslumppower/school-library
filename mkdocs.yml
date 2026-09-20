@@ -98,10 +98,16 @@ nav:
     - Accueil: quatrieme/index.md
     - Révision du jour: quatrieme/revision-du-jour.md
     - Français:
-      - Récap express: quatrieme/francais/happy-meal-anna-gavalda-recap.md
-      - Quiz: quatrieme/francais/happy-meal-anna-gavalda-quiz.md
-      - Fiche de révision: quatrieme/francais/happy-meal-anna-gavalda-fiche.md
-      - Cours détaillé: quatrieme/francais/happy-meal-anna-gavalda.md
+      - Happy Meal - Anna Gavalda:
+        - Récap express: quatrieme/francais/happy-meal-anna-gavalda-recap.md
+        - Quiz: quatrieme/francais/happy-meal-anna-gavalda-quiz.md
+        - Fiche de révision: quatrieme/francais/happy-meal-anna-gavalda-fiche.md
+        - Cours détaillé: quatrieme/francais/happy-meal-anna-gavalda.md
+      - La nouvelle réaliste et La Parure:
+        - Récap express: quatrieme/francais/nouvelle-realiste-la-parure-recap.md
+        - Quiz: quatrieme/francais/nouvelle-realiste-la-parure-quiz.md
+        - Fiche de révision: quatrieme/francais/nouvelle-realiste-la-parure-fiche.md
+        - Cours détaillé: quatrieme/francais/nouvelle-realiste-la-parure.md
     - Anglais:
       - Récap express: quatrieme/anglais/present-simple-recap.md
       - Quiz: quatrieme/anglais/present-simple-quiz.md

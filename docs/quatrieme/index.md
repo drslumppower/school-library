@@ -20,6 +20,16 @@ Comprendre le point de vue du narrateur, les fausses pistes et la chute du réci
 
 Pour approfondir : [cours détaillé](francais/happy-meal-anna-gavalda.md).
 
+### La nouvelle réaliste et *La Parure*
+
+Reconnaître une nouvelle réaliste, découvrir Maupassant et analyser le portrait de Mathilde Loisel.
+
+[Réviser en 5 min](francais/nouvelle-realiste-la-parure-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](francais/nouvelle-realiste-la-parure-quiz.md){ .md-button }
+[Fiche complète](francais/nouvelle-realiste-la-parure-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](francais/nouvelle-realiste-la-parure.md).
+
 ## Anglais
 
 ### Le présent simple
