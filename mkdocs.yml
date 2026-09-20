@@ -109,15 +109,32 @@ nav:
         - Fiche de révision: quatrieme/francais/nouvelle-realiste-la-parure-fiche.md
         - Cours détaillé: quatrieme/francais/nouvelle-realiste-la-parure.md
     - Anglais:
-      - Récap express: quatrieme/anglais/present-simple-recap.md
-      - Quiz: quatrieme/anglais/present-simple-quiz.md
-      - Fiche de révision: quatrieme/anglais/present-simple-fiche.md
-      - Cours détaillé: quatrieme/anglais/present-simple.md
+      - Le présent simple:
+        - Récap express: quatrieme/anglais/present-simple-recap.md
+        - Quiz: quatrieme/anglais/present-simple-quiz.md
+        - Fiche de révision: quatrieme/anglais/present-simple-fiche.md
+        - Cours détaillé: quatrieme/anglais/present-simple.md
+      - Dates and describing a picture:
+        - Récap express: quatrieme/anglais/dates-description-image-recap.md
+        - Quiz: quatrieme/anglais/dates-description-image-quiz.md
+        - Fiche de révision: quatrieme/anglais/dates-description-image-fiche.md
+        - Cours détaillé: quatrieme/anglais/dates-description-image.md
     - Mathématiques:
-      - Récap express: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
-      - Quiz: quatrieme/mathematiques/addition-soustraction-relatifs-quiz.md
-      - Fiche de révision: quatrieme/mathematiques/addition-soustraction-relatifs-fiche.md
-      - Cours détaillé: quatrieme/mathematiques/addition-soustraction-relatifs.md
+      - Addition et soustraction de relatifs:
+        - Récap express: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
+        - Quiz: quatrieme/mathematiques/addition-soustraction-relatifs-quiz.md
+        - Fiche de révision: quatrieme/mathematiques/addition-soustraction-relatifs-fiche.md
+        - Cours détaillé: quatrieme/mathematiques/addition-soustraction-relatifs.md
+      - Théorème de Pythagore:
+        - Récap express: quatrieme/mathematiques/theoreme-pythagore-recap.md
+        - Quiz: quatrieme/mathematiques/theoreme-pythagore-quiz.md
+        - Fiche de révision: quatrieme/mathematiques/theoreme-pythagore-fiche.md
+        - Cours détaillé: quatrieme/mathematiques/theoreme-pythagore.md
+      - Repérage dans l'espace et constructions géométriques:
+        - Récap express: quatrieme/mathematiques/reperage-espace-constructions-recap.md
+        - Quiz: quatrieme/mathematiques/reperage-espace-constructions-quiz.md
+        - Fiche de révision: quatrieme/mathematiques/reperage-espace-constructions-fiche.md
+        - Cours détaillé: quatrieme/mathematiques/reperage-espace-constructions.md
 
 plugins:
   - search:

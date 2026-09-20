@@ -22,4 +22,10 @@ statut: à vérifier
 7. Exemple : $(-6)+(+6)=0$.
 8. Soustraire un nombre revient à ajouter son opposé.
 9. Exemple : $(-2)-(-7)=(-2)+(+7)=+5$.
-10. Toujours transformer la soustraction avant de calculer.
+10. Pour une longue expression : transformer, simplifier, regrouper, puis calculer.
+
+## Exemple express
+
+$$
+5-(-3)+(-7)=5+(+3)+(-7)=5+3-7=1
+$$

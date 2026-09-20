@@ -42,6 +42,16 @@ Parler des habitudes et des vérités générales, construire les phrases et pla
 
 Pour approfondir : [cours détaillé](anglais/present-simple.md).
 
+### Dates and describing a picture
+
+Écrire une date, situer les éléments d'une image et décrire les actions en cours.
+
+[Réviser en 5 min](anglais/dates-description-image-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](anglais/dates-description-image-quiz.md){ .md-button }
+[Fiche complète](anglais/dates-description-image-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](anglais/dates-description-image.md).
+
 ## Mathématiques
 
 ### Addition et soustraction de nombres relatifs
@@ -53,3 +63,23 @@ Calculer avec des nombres de même signe ou de signes différents et transformer
 [Fiche complète](mathematiques/addition-soustraction-relatifs-fiche.md){ .md-button }
 
 Pour approfondir : [cours détaillé](mathematiques/addition-soustraction-relatifs.md).
+
+### Théorème de Pythagore
+
+Repérer l'hypoténuse et calculer une longueur dans un triangle rectangle.
+
+[Réviser en 5 min](mathematiques/theoreme-pythagore-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](mathematiques/theoreme-pythagore-quiz.md){ .md-button }
+[Fiche complète](mathematiques/theoreme-pythagore-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](mathematiques/theoreme-pythagore.md).
+
+### Repérage dans l'espace et constructions géométriques
+
+Lire les vues d'un solide, utiliser trois coordonnées et construire des triangles.
+
+[Réviser en 5 min](mathematiques/reperage-espace-constructions-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](mathematiques/reperage-espace-constructions-quiz.md){ .md-button }
+[Fiche complète](mathematiques/reperage-espace-constructions-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](mathematiques/reperage-espace-constructions.md).

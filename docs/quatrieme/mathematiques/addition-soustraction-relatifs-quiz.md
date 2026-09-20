@@ -63,3 +63,17 @@ Quel signe porte la somme de deux nombres négatifs ?
 
 ??? success "Voir la réponse"
     Elle est négative.
+
+## Question 9
+
+Transforme et simplifie : $5-(-3)+(-7)$.
+
+??? success "Voir la réponse"
+    $5+(+3)+(-7)=5+3-7=1$.
+
+## Question 10
+
+Calcule en regroupant les termes de même signe : $-6+4-3+8$.
+
+??? success "Voir la réponse"
+    $(-6-3)+(4+8)=-9+12=3$.

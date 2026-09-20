@@ -8,6 +8,18 @@ statut: à vérifier
 
 # Le présent simple
 
+## Les pronoms sujets
+
+| Singulier | Pluriel |
+|---|---|
+| **I** : je | **we** : nous |
+| **you** : tu / vous | **you** : vous |
+| **he** : il | **they** : ils / elles |
+| **she** : elle | |
+| **it** : il / elle pour une chose ou un animal | |
+
+Le pronom **I** s'écrit toujours avec une majuscule. Les autres pronoms ne prennent une majuscule qu'en début de phrase.
+
 ## Les emplois
 
 Le présent simple sert à parler de ce qui est habituel, régulier ou généralement vrai. On l'emploie pour les routines, les goûts et les vérités générales.
@@ -35,6 +47,8 @@ L'auxiliaire passe devant le sujet :
 - *Does she play chess?*
 
 On peut répondre brièvement : *Yes, I do*, *No, I don't*, *Yes, she does* ou *No, she doesn't*.
+
+Dans une question, le point d'interrogation se place uniquement à la fin : *Do you like chocolate?*
 
 ## Exprimer la fréquence
 

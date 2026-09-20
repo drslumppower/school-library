@@ -8,6 +8,15 @@ statut: à vérifier
 
 # Present simple - Fiche de révision
 
+## Pronoms sujets
+
+**I, you, he, she, it, we, you, they**
+
+- **he** désigne un garçon ou un homme ;
+- **she** désigne une fille ou une femme ;
+- **it** désigne généralement une chose ou un animal ;
+- **they** remplace plusieurs personnes ou choses.
+
 ## Quand l'utiliser ?
 
 - Habitude : *I walk to school every day.*

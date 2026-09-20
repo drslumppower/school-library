@@ -34,5 +34,24 @@ Exemples :
 2. Changer le signe du second nombre.
 3. Appliquer la règle d'addition adaptée.
 
+## Simplifier une expression
+
+$$
+(-7)+(+3)+(-4)+(-5)+(+2)=-7+3-4-5+2
+$$
+
+Puis on regroupe :
+
+$$
+(-7-4-5)+(3+2)=-16+5=-11
+$$
+
+Ordre conseillé :
+
+1. transformer les soustractions en additions ;
+2. retirer les parenthèses ;
+3. regrouper les termes de même signe ;
+4. calculer.
+
 !!! warning "Erreur classique"
     Dans $(-9)-(+3)$, le second nombre devient $-3$ : on obtient $(-9)+(-3)$, et non $(-9)+(+3)$.
