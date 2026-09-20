@@ -37,3 +37,11 @@ Choisis une matière, puis un chapitre. Tu arriveras sur le récapitulatif avec 
 - [**Repérage et constructions géométriques**](mathematiques/reperage-espace-constructions-recap.md) — Solides, coordonnées et triangles.
 
 </div>
+
+## SVT
+
+<div class="chapter-list" markdown>
+
+- [**Plaques lithosphériques et séismes**](svt/plaques-lithospheriques-seismes-recap.md) — Activité interne, ondes sismiques et prévention des risques.
+
+</div>

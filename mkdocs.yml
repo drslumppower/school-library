@@ -61,6 +61,8 @@ nav:
       - Addition et soustraction de relatifs: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
       - Théorème de Pythagore: quatrieme/mathematiques/theoreme-pythagore-recap.md
       - Repérage et constructions géométriques: quatrieme/mathematiques/reperage-espace-constructions-recap.md
+    - SVT:
+      - Plaques lithosphériques et séismes: quatrieme/svt/plaques-lithospheriques-seismes-recap.md
 
 plugins:
   - search:
