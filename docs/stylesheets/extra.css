@@ -145,6 +145,34 @@ strong,
   border-color: #c7354b;
 }
 
+.chapter-list ul {
+  display: grid;
+  gap: 0.55rem;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.chapter-list li {
+  background-color: rgba(255, 255, 255, 0.78);
+  border-left: 4px solid var(--school-blue);
+  border-radius: 4px;
+  line-height: 1.45;
+  padding: 0.7rem 0.85rem;
+}
+
+.chapter-list li::after {
+  color: var(--school-blue);
+  content: "›";
+  float: right;
+  font-family: "Roboto Bold", "Roboto", sans-serif;
+}
+
+.chapter-list a {
+  display: inline-block;
+  margin-right: 0.25rem;
+}
+
 .md-typeset .admonition.tip {
   border-color: var(--school-yellow);
 }

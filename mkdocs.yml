@@ -14,8 +14,12 @@ theme:
     accent: deep orange
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
     - navigation.sections
     - navigation.top
+    - toc.follow
     - search.highlight
     - search.suggest
 
@@ -25,116 +29,38 @@ nav:
     - Accueil: premiere/index.md
     - Révision du jour: premiere/revision-du-jour.md
     - Physique-chimie:
-      - Tronc commun - Éléments chimiques et réactions nucléaires:
-        - Récap express: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-recap.md
-        - Quiz: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-quiz.md
-        - Fiche de révision: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-fiche.md
-        - Cours détaillé: premiere/physique-chimie/elements-chimiques-reactions-nucleaires.md
-      - Spécialité - Couleurs, vision et synthèses:
-        - Récap express: premiere/physique-chimie/chapitre-17-recap.md
-        - Quiz: premiere/physique-chimie/chapitre-17-quiz.md
-        - Fiche de révision: premiere/physique-chimie/chapitre-17-fiche.md
-        - Cours détaillé: premiere/physique-chimie/chapitre-17-couleurs.md
-      - Spécialité - Lumière, ondes et particules:
-        - Récap express: premiere/physique-chimie/chapitre-18-recap.md
-        - Quiz: premiere/physique-chimie/chapitre-18-quiz.md
-        - Fiche de révision: premiere/physique-chimie/chapitre-18-fiche.md
-        - Cours détaillé: premiere/physique-chimie/chapitre-18-lumiere-ondes-particules.md
+      - Éléments chimiques et réactions nucléaires: premiere/physique-chimie/elements-chimiques-reactions-nucleaires-recap.md
+      - Couleurs, vision et synthèses: premiere/physique-chimie/chapitre-17-recap.md
+      - Lumière, ondes et particules: premiere/physique-chimie/chapitre-18-recap.md
     - Mathématiques:
-      - Récap express: premiere/mathematiques/second-degre-partie-1-recap.md
-      - Quiz: premiere/mathematiques/second-degre-partie-1-quiz.md
-      - Fiche de révision: premiere/mathematiques/second-degre-partie-1-fiche.md
-      - Cours détaillé: premiere/mathematiques/second-degre-partie-1.md
+      - Second degré: premiere/mathematiques/second-degre-partie-1-recap.md
     - Histoire:
-      - La Révolution française - La rupture avec l'Ancien Régime:
-        - Récap express: premiere/histoire/revolution-francaise-rupture-ancien-regime-recap.md
-        - Quiz: premiere/histoire/revolution-francaise-rupture-ancien-regime-quiz.md
-        - Fiche de révision: premiere/histoire/revolution-francaise-rupture-ancien-regime-fiche.md
-        - Cours détaillé: premiere/histoire/revolution-francaise-rupture-ancien-regime.md
+      - La Révolution française: premiere/histoire/revolution-francaise-rupture-ancien-regime-recap.md
     - Français:
-      - Récap express: premiere/francais/le-menteur-corneille-recap.md
-      - Quiz: premiere/francais/le-menteur-corneille-quiz.md
-      - Fiche de révision: premiere/francais/le-menteur-corneille-fiche.md
-      - Cours détaillé: premiere/francais/le-menteur-corneille.md
+      - Le Menteur - Corneille: premiere/francais/le-menteur-corneille-recap.md
     - SVT:
-      - Récap express: premiere/svt/organisation-cellulaire-du-vivant-recap.md
-      - Quiz: premiere/svt/organisation-cellulaire-du-vivant-quiz.md
-      - Fiche de révision: premiere/svt/organisation-cellulaire-du-vivant-fiche.md
-      - Cours détaillé: premiere/svt/organisation-cellulaire-du-vivant.md
+      - Organisation cellulaire du vivant: premiere/svt/organisation-cellulaire-du-vivant-recap.md
     - Anglais:
-      - Three truths, two lies:
-        - Récap express: premiere/anglais/three-truths-two-lies-recap.md
-        - Quiz: premiere/anglais/three-truths-two-lies-quiz.md
-        - Fiche de révision: premiere/anglais/three-truths-two-lies-fiche.md
-        - Cours détaillé: premiere/anglais/three-truths-two-lies.md
-      - Holiday Survey - Prétérit:
-        - Récap express: premiere/anglais/holiday-survey-preterit-recap.md
-        - Quiz: premiere/anglais/holiday-survey-preterit-quiz.md
-        - Fiche de révision: premiere/anglais/holiday-survey-preterit-fiche.md
-        - Cours détaillé: premiere/anglais/holiday-survey-preterit.md
+      - Three truths, two lies: premiere/anglais/three-truths-two-lies-recap.md
+      - Holiday Survey - Prétérit: premiere/anglais/holiday-survey-preterit-recap.md
     - Sciences de l'ingénieur:
-      - La spécialité Sciences de l'Ingénieur(e):
-        - Récap express: premiere/sciences-ingenieur/introduction-sciences-ingenieur-recap.md
-        - Quiz: premiere/sciences-ingenieur/introduction-sciences-ingenieur-quiz.md
-        - Fiche de révision: premiere/sciences-ingenieur/introduction-sciences-ingenieur-fiche.md
-        - Cours détaillé: premiere/sciences-ingenieur/introduction-sciences-ingenieur.md
-      - SI 1-1 - Comment apporter la meilleure réponse à un besoin ?:
-        - Théorie:
-          - Récap express: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
-          - Quiz: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-quiz.md
-          - Fiche de révision: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-fiche.md
-          - Cours détaillé: premiere/sciences-ingenieur/besoin-exigences-structure-systeme.md
-        - TD - Attacheur AP25:
-          - Récap express: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
-          - Quiz: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-quiz.md
-          - Fiche de révision: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-fiche.md
-          - Étude de cas détaillée: premiere/sciences-ingenieur/etude-cas-attacheur-ap25.md
-        - Étude de cas - Tondeuse Robomow RL500:
-          - Récap express: premiere/sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-recap.md
-          - Quiz: premiere/sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-quiz.md
-          - Fiche de révision: premiere/sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-fiche.md
-          - Étude de cas détaillée: premiere/sciences-ingenieur/etude-cas-tondeuse-robomow-rl500.md
+      - Découvrir la spécialité: premiere/sciences-ingenieur/introduction-sciences-ingenieur-recap.md
+      - Besoin, exigences et structure: premiere/sciences-ingenieur/besoin-exigences-structure-systeme-recap.md
+      - Attacheur AP25: premiere/sciences-ingenieur/etude-cas-attacheur-ap25-recap.md
+      - Tondeuse Robomow RL500: premiere/sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-recap.md
   - Quatrième:
     - Accueil: quatrieme/index.md
     - Révision du jour: quatrieme/revision-du-jour.md
     - Français:
-      - Happy Meal - Anna Gavalda:
-        - Récap express: quatrieme/francais/happy-meal-anna-gavalda-recap.md
-        - Quiz: quatrieme/francais/happy-meal-anna-gavalda-quiz.md
-        - Fiche de révision: quatrieme/francais/happy-meal-anna-gavalda-fiche.md
-        - Cours détaillé: quatrieme/francais/happy-meal-anna-gavalda.md
-      - La nouvelle réaliste et La Parure:
-        - Récap express: quatrieme/francais/nouvelle-realiste-la-parure-recap.md
-        - Quiz: quatrieme/francais/nouvelle-realiste-la-parure-quiz.md
-        - Fiche de révision: quatrieme/francais/nouvelle-realiste-la-parure-fiche.md
-        - Cours détaillé: quatrieme/francais/nouvelle-realiste-la-parure.md
+      - Happy Meal - Anna Gavalda: quatrieme/francais/happy-meal-anna-gavalda-recap.md
+      - La nouvelle réaliste et La Parure: quatrieme/francais/nouvelle-realiste-la-parure-recap.md
     - Anglais:
-      - Le présent simple:
-        - Récap express: quatrieme/anglais/present-simple-recap.md
-        - Quiz: quatrieme/anglais/present-simple-quiz.md
-        - Fiche de révision: quatrieme/anglais/present-simple-fiche.md
-        - Cours détaillé: quatrieme/anglais/present-simple.md
-      - Dates and describing a picture:
-        - Récap express: quatrieme/anglais/dates-description-image-recap.md
-        - Quiz: quatrieme/anglais/dates-description-image-quiz.md
-        - Fiche de révision: quatrieme/anglais/dates-description-image-fiche.md
-        - Cours détaillé: quatrieme/anglais/dates-description-image.md
+      - Le présent simple: quatrieme/anglais/present-simple-recap.md
+      - Dates and describing a picture: quatrieme/anglais/dates-description-image-recap.md
     - Mathématiques:
-      - Addition et soustraction de relatifs:
-        - Récap express: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
-        - Quiz: quatrieme/mathematiques/addition-soustraction-relatifs-quiz.md
-        - Fiche de révision: quatrieme/mathematiques/addition-soustraction-relatifs-fiche.md
-        - Cours détaillé: quatrieme/mathematiques/addition-soustraction-relatifs.md
-      - Théorème de Pythagore:
-        - Récap express: quatrieme/mathematiques/theoreme-pythagore-recap.md
-        - Quiz: quatrieme/mathematiques/theoreme-pythagore-quiz.md
-        - Fiche de révision: quatrieme/mathematiques/theoreme-pythagore-fiche.md
-        - Cours détaillé: quatrieme/mathematiques/theoreme-pythagore.md
-      - Repérage dans l'espace et constructions géométriques:
-        - Récap express: quatrieme/mathematiques/reperage-espace-constructions-recap.md
-        - Quiz: quatrieme/mathematiques/reperage-espace-constructions-quiz.md
-        - Fiche de révision: quatrieme/mathematiques/reperage-espace-constructions-fiche.md
-        - Cours détaillé: quatrieme/mathematiques/reperage-espace-constructions.md
+      - Addition et soustraction de relatifs: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
+      - Théorème de Pythagore: quatrieme/mathematiques/theoreme-pythagore-recap.md
+      - Repérage et constructions géométriques: quatrieme/mathematiques/reperage-espace-constructions-recap.md
 
 plugins:
   - search:
