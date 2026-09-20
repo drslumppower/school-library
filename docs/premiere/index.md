@@ -147,5 +147,15 @@ Besoin, exigences chiffrées, architecture et cycle de fonctionnement.
 
 Pour approfondir : [étude de cas détaillée](sciences-ingenieur/etude-cas-attacheur-ap25.md).
 
+#### Étude de cas - Tondeuse Robomow RL500
+
+Besoin, exigences, capteurs, actionneurs et chaînes fonctionnelles d'une tondeuse autonome.
+
+[Réviser en 5 min](sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-quiz.md){ .md-button }
+[Fiche complète](sciences-ingenieur/etude-cas-tondeuse-robomow-rl500-fiche.md){ .md-button }
+
+Pour approfondir : [étude de cas détaillée](sciences-ingenieur/etude-cas-tondeuse-robomow-rl500.md).
+
 !!! info "Contenu à vérifier"
     Les contenus produits à partir des scans sont relus avant d'être marqués comme vérifiés.
