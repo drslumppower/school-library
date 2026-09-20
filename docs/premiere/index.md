@@ -45,6 +45,18 @@ Identités remarquables, forme canonique, sommet, variations et lecture graphiqu
 
 Pour approfondir : [cours détaillé](mathematiques/second-degre-partie-1.md).
 
+## Histoire
+
+### La Révolution française · La rupture avec l'Ancien Régime
+
+Crise de l'Ancien Régime, événements de 1789, nouveaux droits et monarchie constitutionnelle.
+
+[Réviser en 5 min](histoire/revolution-francaise-rupture-ancien-regime-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](histoire/revolution-francaise-rupture-ancien-regime-quiz.md){ .md-button }
+[Fiche complète](histoire/revolution-francaise-rupture-ancien-regime-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](histoire/revolution-francaise-rupture-ancien-regime.md).
+
 ## Français
 
 ### *Le Menteur* · Pierre Corneille
