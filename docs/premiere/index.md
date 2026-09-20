@@ -33,6 +33,16 @@ Mélanges de lumières et de matières, couleur perçue d'un objet et vision tri
 
 Pour approfondir : [cours détaillé](physique-chimie/chapitre-17-couleurs.md).
 
+### Spécialité · Lumière : ondes et particules
+
+Spectre électromagnétique, photons, effet photoélectrique, niveaux d'énergie et spectres de raies.
+
+[Réviser en 5 min](physique-chimie/chapitre-18-recap.md){ .md-button .md-button--primary }
+[Faire le quiz](physique-chimie/chapitre-18-quiz.md){ .md-button }
+[Fiche complète](physique-chimie/chapitre-18-fiche.md){ .md-button }
+
+Pour approfondir : [cours détaillé](physique-chimie/chapitre-18-lumiere-ondes-particules.md).
+
 ## Mathématiques
 
 ### Second degré · Partie 1
