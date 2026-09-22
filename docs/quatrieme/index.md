@@ -10,6 +10,14 @@ Choisis une matière, puis un chapitre. Tu arriveras sur le récapitulatif avec 
 
 [Révision du jour](revision-du-jour.md){ .md-button .md-button--primary }
 
+## Histoire
+
+<div class="chapter-list" markdown>
+
+- [**Commerce atlantique, traites négrières et esclavage**](histoire/commerce-atlantique-traite-negriere-recap.md) — Ports marchands, commerce triangulaire et plantations au XVIIIe siècle.
+
+</div>
+
 ## Français
 
 <div class="chapter-list" markdown>
@@ -34,7 +42,16 @@ Choisis une matière, puis un chapitre. Tu arriveras sur le récapitulatif avec 
 
 - [**Addition et soustraction de relatifs**](mathematiques/addition-soustraction-relatifs-recap.md) — Signes, opposés et simplification.
 - [**Théorème de Pythagore**](mathematiques/theoreme-pythagore-recap.md) — Hypoténuse et calcul de longueurs.
+- [**Racines carrées**](mathematiques/racines-carrees-recap.md) — Carrés parfaits, encadrements et valeurs approchées.
 - [**Repérage et constructions géométriques**](mathematiques/reperage-espace-constructions-recap.md) — Solides, coordonnées et triangles.
+
+</div>
+
+## Physique-Chimie
+
+<div class="chapter-list" markdown>
+
+- [**De l'infiniment petit à l'infiniment grand**](physique-chimie/dimensions-univers-recap.md) — Échelles, conversions et organisation de l'Univers.
 
 </div>
 
@@ -43,5 +60,14 @@ Choisis une matière, puis un chapitre. Tu arriveras sur le récapitulatif avec 
 <div class="chapter-list" markdown>
 
 - [**Plaques lithosphériques et séismes**](svt/plaques-lithospheriques-seismes-recap.md) — Activité interne, ondes sismiques et prévention des risques.
+
+</div>
+
+## Technologie
+
+<div class="chapter-list" markdown>
+
+- [**Information binaire et protocole**](technologie/information-binaire-protocole-recap.md) — Bits, conversion sur 4 bits et codage des messages.
+- [**Du besoin au cahier des charges**](technologie/besoin-cahier-des-charges-recap.md) — Fonctions, contraintes, critères et validation.
 
 </div>

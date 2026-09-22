@@ -51,6 +51,8 @@ nav:
   - Quatrième:
     - Accueil: quatrieme/index.md
     - Révision du jour: quatrieme/revision-du-jour.md
+    - Histoire:
+      - Commerce atlantique, traites négrières et esclavage: quatrieme/histoire/commerce-atlantique-traite-negriere-recap.md
     - Français:
       - Happy Meal - Anna Gavalda: quatrieme/francais/happy-meal-anna-gavalda-recap.md
       - La nouvelle réaliste et La Parure: quatrieme/francais/nouvelle-realiste-la-parure-recap.md
@@ -60,9 +62,15 @@ nav:
     - Mathématiques:
       - Addition et soustraction de relatifs: quatrieme/mathematiques/addition-soustraction-relatifs-recap.md
       - Théorème de Pythagore: quatrieme/mathematiques/theoreme-pythagore-recap.md
+      - Racines carrées: quatrieme/mathematiques/racines-carrees-recap.md
       - Repérage et constructions géométriques: quatrieme/mathematiques/reperage-espace-constructions-recap.md
+    - Physique-Chimie:
+      - De l'infiniment petit à l'infiniment grand: quatrieme/physique-chimie/dimensions-univers-recap.md
     - SVT:
       - Plaques lithosphériques et séismes: quatrieme/svt/plaques-lithospheriques-seismes-recap.md
+    - Technologie:
+      - Information binaire et protocole: quatrieme/technologie/information-binaire-protocole-recap.md
+      - Du besoin au cahier des charges: quatrieme/technologie/besoin-cahier-des-charges-recap.md
 
 plugins:
   - search:
