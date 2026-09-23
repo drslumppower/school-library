@@ -17,23 +17,24 @@ mots_cles:
   - risque sismique
 ---
 
-# Plaques lithosphériques et activité interne de la Terre
+# Plaques terrestres et intérieur de la Terre
+
+!!! success "Bilan à apprendre par cœur"
+    La surface de la Terre est découpée en **plaques**. Ces plaques sont faites de roches solides et rigides : elles forment la **lithosphère**. Elles reposent sur une couche de roches solides mais moins rigides : l'**asthénosphère**. En étudiant la vitesse des ondes produites par les séismes, les scientifiques peuvent connaître l'épaisseur de la lithosphère et la structure interne de la Terre.
 
 ## Objectifs
 
 À la fin de ce chapitre, il faut savoir :
 
-- montrer que les séismes et les volcans ne sont pas répartis au hasard ;
-- définir une plaque lithosphérique et reconnaître ses limites ;
-- associer dorsales, fosses et chaînes de montagnes à des zones actives ;
-- distinguer lithosphère et asthénosphère ;
-- expliquer ce que les ondes sismiques révèlent sur l'intérieur de la Terre ;
-- distinguer aléa, enjeux, vulnérabilité et risque sismique ;
-- citer des moyens de prévention.
+- expliquer que la surface de la Terre est découpée en plaques ;
+- distinguer la lithosphère rigide de l'asthénosphère moins rigide ;
+- expliquer comment les ondes sismiques renseignent sur l'intérieur de la Terre ;
+- connaître les mots foyer, épicentre et magnitude ;
+- citer des moyens de limiter les dégâts d'un séisme.
 
 ## 1. Une activité géologique concentrée
 
-À l'échelle mondiale, les séismes et les volcans actifs ne sont pas répartis uniformément. Ils se concentrent dans des bandes étroites qui se superposent souvent.
+À l'échelle mondiale, les séismes et les volcans actifs ne sont pas répartis partout de la même façon. Ils se concentrent dans de longues bandes.
 
 On observe notamment une forte activité :
 
@@ -42,14 +43,14 @@ On observe notamment une forte activité :
 - au niveau de grandes chaînes de montagnes ;
 - le long de certaines failles continentales.
 
-Ces zones actives dessinent les limites de vastes ensembles plus calmes : les **plaques lithosphériques**.
+Ces zones actives dessinent les bords de grands morceaux de la surface terrestre : les **plaques**.
 
 !!! tip "Méthode pour lire une carte"
     Repérer d'abord les alignements de séismes, puis ceux des volcans. S'ils dessinent les mêmes bandes, on peut en déduire une limite de plaques.
 
 ## 2. Les plaques lithosphériques
 
-Une **plaque lithosphérique** est une portion rigide de la surface terrestre. Elle peut porter un continent, un océan, ou les deux.
+Une **plaque lithosphérique**, appelée plus simplement **plaque**, est un grand morceau rigide de la surface terrestre. Elle peut porter un continent, un océan, ou les deux.
 
 Exemples :
 
@@ -59,26 +60,26 @@ Exemples :
 - plaque eurasiatique ;
 - plaque pacifique.
 
-Les limites des plaques sont des zones où elles se déplacent les unes par rapport aux autres. C'est là que les contraintes s'accumulent et que se produit l'essentiel de l'activité sismique et volcanique.
+Les plaques bougent très lentement les unes par rapport aux autres. La plupart des séismes et des volcans se trouvent à leurs bords.
 
 ## 3. Les principaux reliefs aux limites des plaques
 
-| Relief | Définition simple | Activité associée |
+| Mot | Définition simple | Activité associée |
 |---|---|---|
 | dorsale océanique | longue chaîne de montagnes sous-marine | volcanisme et séismes |
 | fosse océanique | dépression sous-marine très profonde, souvent près d'un continent ou d'un arc insulaire | nombreux séismes, parfois volcanisme |
 | chaîne de montagnes | relief continental élevé formé par le rapprochement de plaques | nombreux séismes |
-| faille transformante | fracture où deux plaques coulissent horizontalement | séismes fréquents |
+| faille | grande cassure des roches où deux blocs peuvent glisser | séismes fréquents |
 
 ### Trois types de mouvements
 
-- **Divergence** : les plaques s'écartent, notamment au niveau des dorsales.
-- **Convergence** : les plaques se rapprochent ; une plaque peut plonger sous une autre ou deux continents peuvent entrer en collision.
-- **Coulissage** : les plaques glissent horizontalement l'une contre l'autre le long d'une faille.
+- les plaques peuvent **s'écarter**, notamment au niveau des dorsales ;
+- elles peuvent **se rapprocher**, ce qui peut former une fosse ou une chaîne de montagnes ;
+- elles peuvent **glisser l'une contre l'autre** le long d'une faille.
 
 ## 4. Comment se produit un séisme ?
 
-Les roches situées près d'une faille subissent des contraintes. Elles se déforment lentement et accumulent de l'énergie. Lorsque leur résistance est dépassée, elles se rompent ou coulissent brutalement.
+Près d'une faille, les roches sont poussées ou tirées. Elles se déforment lentement et accumulent de l'énergie. Lorsqu'elles ne résistent plus, elles cassent ou glissent brutalement.
 
 Cette rupture libère de l'énergie sous forme d'**ondes sismiques**.
 
@@ -91,64 +92,45 @@ Les répliques peuvent aggraver les dommages en faisant céder des bâtiments d�
 
 ## 5. Les ondes révèlent la structure interne
 
-Les ondes sismiques sont enregistrées par des **sismomètres**. Leur vitesse varie selon les propriétés des roches traversées, notamment leur rigidité, leur densité et leur température.
+Les **ondes sismiques** sont des vibrations produites par un séisme. Elles traversent la Terre et sont enregistrées par des appareils appelés **sismomètres**. Leur vitesse change selon les roches traversées.
 
-En général :
-
-- les ondes se propagent plus rapidement dans des roches rigides ;
-- elles ralentissent dans des roches moins rigides et plus chaudes ;
-- certaines ondes ne traversent pas les milieux liquides.
-
-L'étude de leurs changements de vitesse montre que l'intérieur du globe est organisé en couches aux propriétés différentes.
+Les ondes vont plus vite dans les roches rigides et ralentissent dans les roches moins rigides. Un changement de vitesse indique donc un changement de couche. Grâce à ces mesures, les scientifiques étudient l'intérieur de la Terre sans devoir creuser.
 
 ## 6. Lithosphère et asthénosphère
 
-| Couche | Propriétés |
+| Couche | À retenir |
 |---|---|
-| lithosphère | couche externe solide et rigide, découpée en plaques |
-| asthénosphère | couche solide mais moins rigide, située sous la lithosphère |
+| lithosphère | couche extérieure faite de roches solides et rigides ; elle est découpée en plaques |
+| asthénosphère | couche de roches solides mais moins rigides, située sous la lithosphère |
 
-La lithosphère comprend la croûte et la partie supérieure rigide du manteau. Elle repose sur l'asthénosphère, sur laquelle les plaques peuvent se déplacer très lentement.
+La lithosphère comprend la croûte et une partie du manteau. Elle repose sur l'asthénosphère. Les plaques peuvent ainsi se déplacer très lentement.
 
 Son épaisseur varie : elle est généralement plus importante sous les continents que sous les océans. Les documents étudiés donnent des ordres de grandeur d'environ $100\ \mathrm{km}$ sous les continents et $70\ \mathrm{km}$ sous les océans.
 
 !!! warning "Ne pas confondre"
     La croûte n'est qu'une partie de la lithosphère. La lithosphère réunit la croûte et une partie du manteau supérieur.
 
-## 7. Du phénomène naturel au risque sismique
+## 7. Pourquoi les dégâts varient-ils ?
 
-Un séisme de forte magnitude ne provoque pas partout les mêmes dégâts. Le risque dépend de plusieurs éléments :
-
-| Notion | Signification |
-|---|---|
-| aléa | probabilité qu'un séisme se produise dans une zone |
-| enjeux | personnes, bâtiments et réseaux exposés |
-| vulnérabilité | fragilité des enjeux face au séisme |
-| risque | rencontre entre un aléa et des enjeux vulnérables |
-
-On peut résumer ainsi :
-
-$$
-\text{risque}=\text{aléa}\times\text{vulnérabilité des enjeux}
-$$
+Un séisme puissant ne provoque pas partout les mêmes dégâts. Les conséquences dépendent de la force du séisme, mais aussi du nombre d'habitants, du sol et de la solidité des bâtiments.
 
 ### Pourquoi deux bâtiments réagissent-ils différemment ?
 
 Les dégâts varient selon :
 
-- la nature du sous-sol : des sédiments meubles peuvent amplifier les secousses ;
+- la nature du sol : un sol peu solide peut renforcer les secousses ;
 - la distance à l'épicentre ;
 - la hauteur et la forme du bâtiment ;
 - les matériaux employés ;
 - la qualité de la construction ;
-- le respect des normes parasismiques.
+- le respect des règles de construction contre les séismes.
 
 ## 8. Réduire les conséquences
 
 Il est impossible d'empêcher un séisme, mais on peut réduire le risque :
 
-- construire selon des normes parasismiques ;
-- éviter les zones les plus dangereuses grâce aux cartes d'aléa ;
+- construire des bâtiments capables de mieux résister aux secousses ;
+- éviter de construire dans les zones les plus dangereuses ;
 - renforcer les bâtiments anciens ;
 - surveiller l'activité avec des réseaux de sismomètres ;
 - informer et entraîner la population ;
@@ -156,19 +138,13 @@ Il est impossible d'empêcher un séisme, mais on peut réduire le risque :
 
 ## Étude de cas : le Venezuela
 
-Le nord du Venezuela se situe à la limite entre les plaques sud-américaine et caraïbe. Elles coulissent le long de failles actives. Une grande partie de la population vit près de ces failles : les enjeux humains y sont donc importants.
+Le nord du Venezuela se situe au bord des plaques sud-américaine et caraïbe. Elles glissent l'une contre l'autre le long de failles actives. Une grande partie de la population vit près de ces failles : beaucoup de personnes et de bâtiments sont donc exposés.
 
 Cet exemple montre que les conséquences ne dépendent pas seulement de la magnitude. La nature du sol, la qualité des constructions, la densité de population et la préparation aux séismes modifient fortement le bilan.
 
-## À retenir
+## Bilan final à savoir réciter
 
-- Séismes et volcans se concentrent surtout aux limites des plaques.
-- Une plaque est une portion rigide de lithosphère reposant sur une asthénosphère moins rigide.
-- Dorsales, fosses, montagnes et failles marquent différents types de limites.
-- Un séisme résulte d'une rupture brutale après accumulation de contraintes.
-- Les ondes sismiques permettent d'étudier indirectement l'intérieur de la Terre.
-- Le risque dépend à la fois du phénomène naturel et de la vulnérabilité des sociétés.
-- La prévention et les normes parasismiques réduisent les dommages.
+> La surface de la Terre est découpée en plaques. Ces plaques sont constituées de roches solides et rigides : elles forment la lithosphère. La lithosphère repose sur l'asthénosphère, composée de roches solides mais moins rigides. L'étude de la vitesse des ondes sismiques permet de distinguer ces couches, de mesurer l'épaisseur de la lithosphère et de connaître la structure interne de la Terre. La lithosphère mesure environ $100\ \mathrm{km}$ sous les continents et $70\ \mathrm{km}$ sous les océans.
 
 !!! note "Validation"
     Cette leçon a été reconstruite à partir de plusieurs activités et exercices photographiés. Elle synthétise les connaissances attendues sans reprendre les documents source mot à mot et doit être comparée au cours original avant de passer son statut à « vérifié ».

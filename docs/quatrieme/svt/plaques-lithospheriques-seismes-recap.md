@@ -11,23 +11,18 @@ statut: à vérifier
 
 [Fiche complète](plaques-lithospheriques-seismes-fiche.md){ .md-button } [Quiz](plaques-lithospheriques-seismes-quiz.md){ .md-button } [Cours détaillé](plaques-lithospheriques-seismes.md){ .md-button }
 
-## L'essentiel en 10 lignes
+## Le bilan à apprendre par cœur
 
-1. Séismes et volcans ne sont pas répartis au hasard.
-2. Ils se concentrent surtout aux limites des plaques lithosphériques.
-3. Une plaque est une portion rigide de la lithosphère.
-4. La lithosphère repose sur l'asthénosphère, moins rigide.
-5. Dorsales, fosses, montagnes et failles signalent des limites de plaques.
-6. Un séisme est provoqué par une rupture brutale le long d'une faille.
-7. Le foyer est en profondeur ; l'épicentre est à la surface.
-8. Les ondes sismiques renseignent sur les couches internes de la Terre.
-9. Le risque dépend de l'aléa, des enjeux et de leur vulnérabilité.
-10. Les normes parasismiques et la préparation réduisent les dégâts.
+> La surface de la Terre est découpée en plaques. Elles sont faites de roches solides et rigides et forment la **lithosphère**. La lithosphère repose sur l'**asthénosphère**, faite de roches solides mais moins rigides. En étudiant la vitesse des **ondes sismiques**, les scientifiques peuvent connaître les couches situées à l'intérieur de la Terre.
 
-## Trois mouvements
+## Les 5 idées essentielles
 
-**Divergence : écartement · Convergence : rapprochement · Coulissage : glissement horizontal**
+1. Les séismes et les volcans se trouvent surtout aux bords des plaques.
+2. La lithosphère est solide et rigide ; elle est découpée en plaques.
+3. L'asthénosphère est solide mais moins rigide ; elle se trouve sous la lithosphère.
+4. Les ondes sismiques changent de vitesse lorsqu'elles traversent des couches différentes.
+5. La lithosphère mesure environ $100\ \mathrm{km}$ sous les continents et $70\ \mathrm{km}$ sous les océans.
 
 ## L'erreur à ne pas faire
 
-Confondre magnitude et dégâts : une forte magnitude mesure beaucoup d'énergie, mais les dommages dépendent aussi du sol, des constructions et de la population exposée.
+Dire que l'asthénosphère est liquide : elle est **solide**, mais moins rigide que la lithosphère.

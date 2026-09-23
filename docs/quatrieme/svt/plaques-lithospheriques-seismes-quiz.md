@@ -12,90 +12,90 @@ Réponds, puis ouvre la correction.
 
 ## Question 1
 
-Les séismes et les volcans sont-ils répartis au hasard sur Terre ?
+Quelle grande idée faut-il retenir sur la surface de la Terre ?
 
 ??? success "Voir la réponse"
-    Non. Ils se concentrent dans des bandes qui correspondent principalement aux limites des plaques lithosphériques.
+    Elle est découpée en grandes plaques.
 
 ## Question 2
 
-Qu'est-ce qu'une plaque lithosphérique ?
+De quoi les plaques sont-elles constituées ?
 
 ??? success "Voir la réponse"
-    Une portion rigide de la surface terrestre, constituée de lithosphère et pouvant porter un continent, un océan ou les deux.
+    De roches solides et rigides formant la lithosphère.
 
 ## Question 3
 
-Associe chaque relief à sa description : dorsale, fosse, chaîne de montagnes.
+Sur quelle couche la lithosphère repose-t-elle ?
 
 ??? success "Voir la réponse"
-    Dorsale : chaîne sous-marine ; fosse : profonde dépression sous-marine ; chaîne de montagnes : relief continental élevé.
+    Sur l'asthénosphère.
 
 ## Question 4
 
-Quelle différence existe-t-il entre lithosphère et asthénosphère ?
+Quelle différence principale existe-t-il entre lithosphère et asthénosphère ?
 
 ??? success "Voir la réponse"
-    La lithosphère est rigide et découpée en plaques. L'asthénosphère située dessous est solide mais moins rigide.
+    Les deux sont solides, mais la lithosphère est rigide alors que l'asthénosphère est moins rigide.
 
 ## Question 5
 
-Comment les scientifiques étudient-ils indirectement l'intérieur de la Terre ?
+Que mesurent les scientifiques pour étudier l'intérieur de la Terre ?
 
 ??? success "Voir la réponse"
-    Ils enregistrent les ondes sismiques et étudient les variations de leur vitesse selon les matériaux traversés.
+    Ils mesurent la vitesse des ondes sismiques.
 
 ## Question 6
 
-Où se situent le foyer et l'épicentre ?
+Pourquoi un changement de vitesse des ondes est-il important ?
 
 ??? success "Voir la réponse"
-    Le foyer est le lieu de la rupture en profondeur. L'épicentre se trouve à la surface, à sa verticale.
+    Il indique que les ondes entrent dans une couche de roches différente.
 
 ## Question 7
 
-Que mesure la magnitude ?
+Quelle est l'épaisseur approximative de la lithosphère sous un continent ?
 
 ??? success "Voir la réponse"
-    Elle mesure l'énergie libérée lors du séisme.
+    Environ $100\ \mathrm{km}$.
 
 ## Question 8
 
-Qu'est-ce qu'une réplique et pourquoi peut-elle être dangereuse ?
+Quelle est son épaisseur approximative sous un océan ?
 
 ??? success "Voir la réponse"
-    C'est un séisme postérieur au choc principal dans la même région. Elle peut faire céder des constructions déjà fragilisées.
+    Environ $70\ \mathrm{km}$.
 
 ## Question 9
 
-Cite les trois grands types de mouvement entre plaques.
+Où se trouvent la plupart des séismes et des volcans ?
 
 ??? success "Voir la réponse"
-    Divergence, convergence et coulissage.
+    Aux bords des plaques.
 
 ## Question 10
 
-Pourquoi deux bâtiments voisins peuvent-ils subir des dégâts différents ?
+Comment naît un séisme ?
 
 ??? success "Voir la réponse"
-    Leur sol, leur hauteur, leur forme, leurs matériaux ou le respect des normes parasismiques peuvent être différents.
+    Des roches poussées ou tirées se déforment, puis cassent ou glissent brutalement. Cette rupture libère de l'énergie.
 
 ## Question 11
 
-Quelle différence y a-t-il entre aléa et vulnérabilité ?
+Où se trouvent le foyer et l'épicentre ?
 
 ??? success "Voir la réponse"
-    L'aléa correspond à la possibilité d'un phénomène. La vulnérabilité indique la fragilité des personnes et des constructions exposées.
+    Le foyer est le lieu de la cassure en profondeur. L'épicentre est le point de la surface situé au-dessus.
 
 ## Question 12
 
 Donne trois moyens de réduire le risque sismique.
 
 ??? success "Voir la réponse"
-    Par exemple : normes parasismiques, renforcement des bâtiments, cartes d'aléa, surveillance, information de la population et préparation des secours.
+    Par exemple : construire des bâtiments plus résistants, renforcer les bâtiments anciens, éviter les zones dangereuses, surveiller les séismes et préparer les secours.
 
 ## Auto-évaluation
 
 - **10 à 12** : chapitre maîtrisé.
-- **7 à 9** : revois les couches terrestres et le vocabulaire du risque.
-- **0 à 6** : reprends le récapitulatif dans l'ordre carte, plaques, séisme, risque.
+- **7 à 9** : revois surtout la lithosphère, l'asthénosphère et les ondes sismiques.
+- **0 à 6** : apprends d'abord le bilan placé au début du récapitulatif.
